@@ -1,0 +1,6 @@
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad.git
+[submodule "themes/aamod"]
+	path = themes/aamod
+	url = https://github.com/recoverysource/aamod.git

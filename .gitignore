@@ -1,0 +1,15 @@
+# ./generate content.py
+content/meeting-times.md
+content/meeting-zips.md
+content/meetings/*
+!content/meetings/_index.md
+static/meeting-times.json
+static/meeting-schedule.*
+static/meeting-locations.js
+meeting-schedule.*
+data/geos.yaml
+
+# hugo
+.hugo_build.lock
+/resources
+site

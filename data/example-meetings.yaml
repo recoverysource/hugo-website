@@ -1,0 +1,122 @@
+# Use of space in this file is important.
+#
+# Basic Format (can exclude 'note:' and 'provides'):
+# - Valid "type" codes: https://github.com/code4recovery/spec#meeting-types
+#   EN:English, B:BigBook, C:Closed, O:Open, 12x12:TwelveByTwelve, D:Discussion,
+#   SP:Speaker, ST:StepStudy, TR:TraditionStudy, X:WheelchairAccess, BA:Babysitting
+#
+#<shortname>:
+#  name: <Name of Place>
+#  time:
+#    Sunday: ["00:00", "13:00"]
+#    Monday: ["00:00", "13:00"]
+#  place: <Name of Building>
+#  address: <Mailing Address of Location>
+#  note: |
+#      First "note" line appears on meeting-schedule.pdf.
+#      <br />Additional lines require the "<br />" tag
+#  type: [EN, B, TR]
+#  # Optional Fields
+#  longitude: 0.0
+#  latitude: 0.0
+#  hidefrom: [map, pdf, json]
+
+
+##
+# NOTE: Although this comes from live data, it
+# exist here to provide realistic sample data.
+##
+
+2ndchanceaa:
+  name: 2nd Chance AA
+  time:
+    Tuesday: ["19:00"]
+    Saturday: ["10:00"]
+  place: Community Reformed Church
+  address: 6800 E 41st St, Sioux Falls, SD, 57110
+  type: [EN, C, B, X]
+
+beresfordaa:
+  name: Beresford AA
+  time:
+    Sunday: ["19:00"]
+    Wednesday: ["20:00"]
+  address: 304 N 10th, Beresford, SD, 57004
+  note: |
+      Behind Casey's
+      </br >Last Monday of the month is an Open Birthday Meeting
+  type: [EN, C, ST, D, X]
+
+brandon12x12:
+  name: Brandon 12x12
+  time:
+    Monday: ["19:00"]
+    Wednesday: ["20:00"]
+    Thursday: ["20:00"]
+    Saturday: ["11:00"]
+  address: 209 E Elm St, Brandon, SD, 57005
+  phone: 605-582-3833
+  type: [EN, C, 12x12, ST, B, D]
+
+blacksheep:
+  name: Black Sheep AA
+  time:
+    Monday: ["20:00"]
+    Friday: ["20:00"]
+  place: Good Shepherd Episcopal Church
+  address: 2707 West 33rd Street, Sioux Falls, SD, 57105
+  note: Last Monday of the month is an Open Birthday Meeting
+  type: [EN, C, ST, B]
+
+chesteraa:
+  name: Chester AA
+  time:
+    Friday: ["20:00"]
+  place: Community Center
+  address: 401 4th St, Chester, SD, 57016
+  note: First Friday of the month is an Open Birthday Meeting
+  type: [EN, C, B, X]
+
+madisonaa:
+  name: Madison AA
+  time:
+    Sunday: ["09:00", "19:30"]
+    Monday: ["20:00"]
+    Tuesday: ["20:00"]
+    Wednesday: ["17:30"]
+    Thursday: ["20:00"]
+    Saturday: ["10:00", "20:00"]
+  address: Hwy 34 and 453rd Ave, Madison, SD, 57042
+  note: |
+      South side of highway, near vet clinic; 1 mi west of town
+      <br \>Saturday meeting are Open
+  type: [EN, C, B, 12x12, D, X]
+
+madisonaagrace:
+  name: Madison AA
+  time:
+    Sunday: ["17:30"]
+    Tuesday: ["12:00", "17:30"]
+    Wednesday: ["12:00", "17:30"]
+    Friday: ["12:00", "17:30"]
+    Thursday: ["12:00"]
+    Saturday: ["09:00"]
+  place: Grace Episcopal Church
+  address: 3rd Street Northwest, Madison, SD, 57042
+  note: Behind Casey's
+  type: [EN, C, B]
+
+westside:
+  name: Westside AA
+  time:
+    Sunday: ["08:00", "11:00", "19:30"]
+    Monday: ["10:00", "20:00"]
+    Tuesday: ["08:00", "10:00", "20:00"]
+    Wednesday: ["10:00", "18:30", "20:00"]
+    Thursday: ["08:00", "10:00", "17:00", "20:00"]
+    Friday: ["10:00", "20:00"]
+    Saturday: ["08:00", "10:00", "20:00"]
+  place: Westside Alano Club
+  address: 1509 West 1st Street, Sioux Falls, SD, 57104
+  phone: 605-332-9323
+  type: [EN, C, B, TR, X]

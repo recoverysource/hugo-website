@@ -1,0 +1,49 @@
+name: Deploy Site
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Install Dependencies
+        run: |
+            sudo apt-get update
+            sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra python3-geopy
+
+      - name: Pull Submodules (themes)
+        run: git submodule update --init --recursive
+
+      - name: Check Files Exist
+        if: github.repository == 'recoverysource/hugo-website'
+        run: |
+            [ -f 'config.yaml' ] || cp example-config.yaml config.yaml
+            [ -e data/meetings* ] || cp data/example-meetings.yaml data/meetings.yaml
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+
+      - name: Build Site
+        run: make
+
+      - name: Deploy Changes
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/master' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
