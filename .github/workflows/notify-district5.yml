@@ -1,0 +1,19 @@
+name: Notify District-5 (siouxfallsaa.org)
+on:
+  push:
+    paths:
+      - data/meetings/**
+
+jobs:
+  build:
+    name: Notify siouxfallsaa/siouxfallsaa.org
+    runs-on: ubuntu-latest
+    steps:
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
+        with:
+          # You should create a personal access token and store it in your repository
+          token: ${{ secrets.MTECK_PAT }}
+          repo: siouxfallsaa.org
+          owner: siouxfallsaa
+          event_type: meeting_sync
