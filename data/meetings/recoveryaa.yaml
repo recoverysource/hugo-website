@@ -1,0 +1,14 @@
+area: 63
+district: 5
+name: Recovery AA
+time:
+  Monday: ["17:30"]
+place: Our Savior's Lutheran Church
+address: 909 West 33rd Street, Sioux Falls, SD, 57105
+note: |
+    Room 103 (upstairs)
+    <br /><b>Zoom:</b> https://zoom.us/j/709980611, <b>Meeting:</b> 709980611
+    <br />Last Monday OPEN Birthday
+type: [EN, C, B, ST, X]
+longitude: -96.73653395918366
+latitude: 43.52200173469388

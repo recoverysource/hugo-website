@@ -1,0 +1,12 @@
+area: 63
+district: 5
+name: Black Sheep AA
+time:
+  Monday: ["20:00"]
+  Friday: ["20:00"]
+place: Good Shepherd Episcopal Church
+address: 2707 West 33rd Street, Sioux Falls, SD, 57105
+note: Last Monday of the month is an Open Birthday Meeting
+type: [EN, C, ST, B]
+longitude: -96.75909770526316
+latitude: 43.522028905263156

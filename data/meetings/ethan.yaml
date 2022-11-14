@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 206 E Ash St, Ethan, SD, 57334
+name: Ethan AA
+place: Methodist Church
+time:
+  Sunday: ['19:00']
+type: [C, B, EN]
+longitude: -97.98511491836734
+latitude: 43.54650987755102

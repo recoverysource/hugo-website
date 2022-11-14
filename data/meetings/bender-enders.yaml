@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+name: Bender Enders Group
+time:
+  Wednesday: ['19:00']
+place: Lake Preston Community Room
+address: Main Ave N, Lake Preston, SD, 57249
+type: [X, O, EN]
+longitude: -97.377286
+latitude: 44.364967

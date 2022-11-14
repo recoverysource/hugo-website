@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+name: Joe & Charlie Bring The Big Book Alive
+time:
+  Friday: ["19:00"]
+address: 325 Deadwood Ave, Rapid City, SD, 57702
+note: |
+  <b>Zoom:</b> <a href="https://us02web.zoom.us/j/87066396284">https://us02web.zoom.us/j/87066396284</a>,
+  <br /><b>Meeting:</b> 870-6639-6284 <b>Password:</b> password
+type: [EN, C, B, ST]
+longitude: -103.256736
+latitude: 44.083157

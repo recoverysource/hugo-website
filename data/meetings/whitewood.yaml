@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 920 Fillmore St, Whitewood, SD, 57793
+name: Whitewood AA
+place: Immanuel Lutheran Church
+time:
+  Saturday: ['19:00']
+  Wednesday: ['19:00']
+type: [D, O, EN]
+longitude: -103.63675391322082
+latitude: 44.466464689900306

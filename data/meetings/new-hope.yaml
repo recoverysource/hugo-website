@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 106 Main St, Martin, SD, 57551
+name: New Hope Group
+place: Living Word Community Church
+time:
+  Sunday: ['19:00']
+type: [C, X, EN]
+longitude: -101.73208948979592
+latitude: 43.17521365306123

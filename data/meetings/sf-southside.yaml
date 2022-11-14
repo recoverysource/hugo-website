@@ -1,0 +1,21 @@
+area: 63
+district: 5
+name: Southside AA
+time:
+  Sunday: ["10:00", "17:30", "20:00"]
+  Monday: ["08:00", "10:00", "17:30", "20:00"]
+  Tuesday: ["10:00", "17:30", "20:00"]
+  Wednesday: ["08:00", "10:00", "17:30", "20:00"]
+  Thursday: ["10:00", "17:30", "20:00"]
+  Friday: ["08:00", "10:00", "17:30", "20:00"]
+  Saturday: ["10:00", "17:30"]
+place: Southside Alano Club
+address: 4112 South West Avenue, Sioux Falls, SD, 57105
+phone: 605-332-9911
+note: |
+    SE Corner, 51st and West
+    <br /><br />Spouse-Welcome Meeting: Tuesday and Thursday @ 8:00PM
+    <br />Last Friday of the month is an Open Birthday Meeting at 10:00AM and 5:30PM
+type: [EN, C, ST, D, X]
+longitude: -96.745919
+latitude: 43.50666681818182

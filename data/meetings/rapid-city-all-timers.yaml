@@ -1,0 +1,9 @@
+area: 63
+#district: ?
+name: All Timers Group
+time:
+  Saturday: ['09:15']
+address: 325 Deadwood Ave, Rapid City, SD, 57702
+type: [EN, C, B, ST]
+longitude: -103.256736
+latitude: 44.083157

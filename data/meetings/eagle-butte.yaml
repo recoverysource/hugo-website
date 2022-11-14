@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: Cedar Ave & Heritage Ave, Eagle Butte, SD, 57625
+name: Eagle Butte AA
+place: Catholic Church
+time:
+  Monday: ['19:00']
+  Thursday: ['19:00']
+type: [D, O, EN]
+longitude: -101.233002
+latitude: 44.999085

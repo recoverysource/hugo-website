@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 814 W King St, Spearfish, SD, 57783
+name: Noon at Newman's AA Meeting
+place: Newman Center
+time:
+  Thursday: ['12:00']
+  Tuesday: ['12:00']
+type: [C, D, EN]
+longitude: -103.870799531572
+latitude: 44.49248625

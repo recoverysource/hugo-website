@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: '324 St Joseph St #206, Rapid City, SD, 57701'
+name: Young Guns
+place: Next to Fork Royal / Up the stairs
+time:
+  Friday: ['19:00']
+type: [D, O, EN]
+longitude: -103.222753
+latitude: 44.079826

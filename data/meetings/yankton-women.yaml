@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 1019 W 9th St, Yankton, SD, 57078
+name: Yankton AA (Women)
+place: 24 Club
+time:
+  Tuesday: ['17:30']
+  Saturday: ['10:00']
+type: [X, C, EN, W]
+longitude: -97.40886523255814
+latitude: 42.877471651162786

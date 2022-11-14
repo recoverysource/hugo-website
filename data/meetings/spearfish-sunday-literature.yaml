@@ -1,0 +1,14 @@
+area: 63
+#district: ?
+address: 845 N 5th St, Spearfish, SD, 57783
+name: Spearfish Sunday Literature Group
+place: Northern Hills Recovery
+time:
+  Tuesday: ['19:30']
+  Sunday: ['20:00']
+type: [C, D, X, EN]
+note: |
+    <b>Zoom:</b> <a href="https://us02web.zoom.us/j/168179667">https://us02web.zoom.us/j/168179667</a>,
+    <b>Meeting:</b> 168-179-667 <b>Password:</b> <none>
+longitude: -103.86103370344728
+latitude: 44.49137146775318

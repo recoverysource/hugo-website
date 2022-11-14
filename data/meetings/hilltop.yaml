@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Hilltop AA
+time:
+  Tuesday: ["19:00"]
+place: St Lambert's Catholic Church
+address: 1000 South Bahnson Avenue, Sioux Falls, SD, 57103
+note: |
+    Enter from east door, near playground
+    <br />Last Monday of the month is an Open Birthday Meeting
+type: [EN, C, B, D, X]
+longitude: -96.681334
+latitude: 43.538361

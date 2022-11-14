@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+name: Custer AA
+time:
+  Tuesday: ["19:00"]
+  Thursday: ["19:00"]
+  Saturday: ["10:00"]
+place: Brown Building
+address: 520 N Crook St., Custer, SD, 57730
+type: [C, X, EN]
+longitude: -103.5985713
+latitude: 43.7680127

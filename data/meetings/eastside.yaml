@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 1300 E 10th St, Sioux Falls, SD, 57103
+name: Eastside AA Group
+place: Eastside Lutheran Church
+time:
+  Thursday: ['17:30']
+type: [C, X, EN]
+longitude: -96.71012225253311
+latitude: 43.54676096690854

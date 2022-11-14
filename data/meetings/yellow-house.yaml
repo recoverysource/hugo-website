@@ -1,0 +1,16 @@
+area: 63
+#district: ?
+address: 519 S Arch St, Aberdeen, SD, 57401
+name: Yellow House Group
+place: Alano Club
+time:
+  Friday: ['20:30', '11:45', '13:00']
+  Monday: ['20:30', '13:00']
+  Saturday: ['19:00']
+  Sunday: ['20:30']
+  Thursday: ['19:30', '13:00']
+  Tuesday: ['20:30', '13:00']
+  Wednesday: ['20:30', '13:00']
+type: [D, X, O, EN]
+longitude: -98.48063819487592
+latitude: 45.45983895756737

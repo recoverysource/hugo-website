@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 1009 Jackson St, Yankton, SD, 57078
+name: Yankton SD, Porchlight Group
+place: Riverview Park Reformed Church
+time:
+  Friday: ['20:00']
+type: [X, O, EN]
+longitude: -97.41005514285715
+latitude: 42.879043653061224

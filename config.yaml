@@ -1,0 +1,63 @@
+baseURL: https://area63aa.org/
+title: Area 63 (SD)
+
+languageCode: en-us
+theme: [aamod, mainroad]
+sectionPagesMenu: main
+paginate: 100
+buildFuture: true
+googleAnalytics: G-JC85111FJ6
+
+Params:
+  description: Area 63 A.A. (South Dakota)
+  source: https://github.com/area63aa/area63aa.org/tree/master
+  mapapikey: AIzaSyCOYqYnjysljI3j2Z_F581D_9S49OxuGjo
+  mapcenter: {lat: 44.574, lng: -100.093}
+  mapzoom: 6
+  copyright: Area 63 A.A.
+  logo:
+    image: img/AAlogo.png
+    title: Area 63 (South Dakota)
+  toc: true
+  mainSections: [home, meetings, about, events]
+  sidebar:
+    single: right
+    home: right
+    widgets: [resources, eventsidemenu, aasites]
+  widgets:
+
+    resources:
+      - title: Big Book PDF
+        url: /resources/AA_BigBook-4th.pdf
+      - title: Daily Reflections PDF
+        url: /resources/Daily_Reflections.pdf
+      - title: Regional Websites
+        url: /regional-websites/
+      - title: Regional Hotlines
+        url: /regional-hotlines/
+      - title: Update Meeting
+        url: https://docs.google.com/forms/d/1PQJLwOIgv2OOw9LgD7M6UeGMbycnmNlRroMCG1IcIj0/
+
+    aasites:
+      - title: West Central Region AA
+        url: https://westcentralregion.org/
+      - title: A.A. World Services
+        url: https://www.aa.org/
+      - title: Big Book Online
+        url: https://www.aa.org/bigbookonline/
+      - title: A.A. Grapevine
+        url: http://www.aagrapevine.org/
+      - title: Meeting Guide Phone App
+        url: https://www.aa.org/meeting-guide-app
+
+menu:
+  main:
+    - identifier: conference
+      name: Next Conference
+      url: /events/2023-area63-spring-conference/
+
+markup:
+  goldmark:
+    renderer:
+      # Permit raw HTML in content
+      unsafe: true

@@ -1,0 +1,16 @@
+area: 63
+#district: ?
+address: 890 3rd St. SW, Huron, SD, 57350
+name: Turning Point
+place: Turning Point
+time:
+  Friday: ['18:30']
+  Monday: ['18:30']
+  Saturday: ['18:30']
+  Sunday: ['12:00', '18:30']
+  Thursday: ['12:00', '18:30']
+  Tuesday: ['12:00', '18:30']
+  Wednesday: ['18:30']
+type: [X, O, EN]
+longitude: -98.228241
+latitude: 44.364088

@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Beresford AA
+time:
+  Sunday: ["19:00"]
+  Wednesday: ["20:00"]
+address: 304 N 10th, Beresford, SD, 57004
+note: |
+    Next to fire station
+    </br >Last Monday of the month is an Open Birthday Meeting
+type: [EN, C, ST, D, X]
+longitude: -96.783571
+latitude: 43.082926

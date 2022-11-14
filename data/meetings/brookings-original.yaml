@@ -1,0 +1,16 @@
+area: 63
+#district: ?
+address: 135 1st Ave S, Brookings, SD, 57006
+name: Brookings Original Group
+place: Brookings Club
+time:
+  Friday: ['12:15', '19:30']
+  Monday: ['12:15', '19:30']
+  Saturday: ['08:30', '19:30']
+  Sunday: ['19:30', '09:30']
+  Thursday: ['12:15', '19:30']
+  Tuesday: ['12:15', '19:30']
+  Wednesday: ['12:15', '19:30']
+type: [X, B, EN, D, O]
+longitude: -96.80285
+latitude: 44.30566

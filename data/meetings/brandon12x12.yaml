@@ -1,0 +1,19 @@
+area: 63
+district: 5
+name: Brandon 12x12
+time:
+  Monday: ["19:00"]
+  Wednesday: ["20:00"]
+  Thursday: ["20:00"]
+  Saturday: ["11:00"]
+address: 209 E Elm St, Brandon, SD, 57005
+phone: 605-582-3833
+note: |
+    Located behind the VFW (Open Birthday Meetings)
+    <br /><br /><b>Zoom:</b> <a href=https://zoom.us/j/777305352>https://zoom.us/j/777305352</a>,
+    <b>Meeting:</b> 777-305-352 <b>Password:</b> Br@ndon39
+    <br />Last Monday of the month is an Open Birthday Meeting
+    <br />Last Thursday of the month is an Open Speaker Meeting
+type: [EN, C, 12x12, ST, B, D]
+longitude: -96.58901348707323
+latitude: 43.59150854300035

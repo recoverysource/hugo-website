@@ -1,0 +1,11 @@
+area: 63
+district: 5
+name: Saturday Morning AA
+time:
+  Saturday: ["10:00"]
+place: Peace Lutheran Church
+address: 5509 West 41st Street, Sioux Falls, SD, 57106
+note: Last Saturday of the month is an Open Birthday Meeting
+type: [EN, C, B, D]
+longitude: -96.7936239375
+latitude: 43.5147269375

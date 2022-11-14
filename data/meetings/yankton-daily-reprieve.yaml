@@ -1,0 +1,16 @@
+area: 63
+#district: ?
+address: 1019 W 9th St, Yankton, SD, 57078
+name: Yankton AA
+place: 24-Hour Alano Club
+time:
+  Monday: ['12:00', '19:00']
+  Tuesday: ['12:00', '19:00']
+  Wednesday: ['12:00', '19:00']
+  Thursday: ['12:00', '19:00']
+  Friday: ['12:00', '19:00']
+  Saturday: ['12:00', '19:00']
+  Sunday: ['08:00', '13:30', '19:00']
+type: [X, O, EN]
+longitude: -97.40886523255814
+latitude: 42.877471651162786

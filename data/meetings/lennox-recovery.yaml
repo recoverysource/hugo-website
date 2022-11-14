@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 217 S Pine St, Lennox, SD, 57039
+name: Lennox Recovery Group
+place: Sunrise Manor Office
+time:
+  Tuesday: ['19:00']
+type: [C, B, EN]
+longitude: -96.886324
+latitude: 43.353442

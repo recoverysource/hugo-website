@@ -1,0 +1,15 @@
+area: 63
+district: 5
+name: Rainbow Wildbunch AA
+time:
+  Tuesday: ["19:00"]
+  Thursday: ["17:30"]
+  Saturday: ["19:00"]
+place: Our Savior's Lutheran Church
+address: 909 West 33rd Street, Sioux Falls, SD, 57105
+note: |
+    Room 103
+    <br />First Saturday of the month is an Open Birthday Meeting
+type: [EN, O, ST, D, X, G]
+longitude: -96.73653395918366
+latitude: 43.52200173469388

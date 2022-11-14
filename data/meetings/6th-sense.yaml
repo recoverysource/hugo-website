@@ -1,0 +1,15 @@
+area: 63
+#district: ?
+name: 6th Sense Group
+time:
+  Friday: ['18:00']
+  Monday: ['18:00']
+  Sunday: ['10:00']
+  Thursday: ['17:30']
+  Tuesday: ['20:00']
+  Wednesday: ['19:00']
+place: 422 SE 5th Ave
+address: 422 5th Ave SE, Aberdeen, SD, 57401
+type: [C, EN]
+longitude: -98.48131092929293
+latitude: 45.460036

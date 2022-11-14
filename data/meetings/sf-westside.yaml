@@ -1,0 +1,23 @@
+area: 63
+district: 5
+name: Westside AA
+time:
+  Sunday: ["08:00", "11:00", "19:30"]
+  Monday: ["10:00", "20:00"]
+  Tuesday: ["08:00", "10:00", "20:00"]
+  Wednesday: ["10:00", "18:30", "20:00"]
+  Thursday: ["08:00", "10:00", "17:00", "20:00"]
+  Friday: ["10:00", "20:00"]
+  Saturday: ["08:00", "10:00", "20:00"]
+place: Westside Alano Club
+address: 1509 West 1st Street, Sioux Falls, SD, 57104
+phone: 605-332-9323
+note: |
+    Speaker Meeting 2nd Friday of the month
+    <br />Last Friday of the month is an Open Birthday Meeting
+    <br />Friday meetings are Open
+    <br />Sunday at 7:30PM is Open
+    <br />Saturday at 8:00PM is a Traditions Meeting
+type: [EN, C, B, TR, X]
+longitude: -96.74766244295301
+latitude: 43.55737530201342

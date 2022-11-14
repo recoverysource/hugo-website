@@ -1,0 +1,11 @@
+area: 63
+district: 5
+name: Chester AA
+time:
+  Friday: ["20:00"]
+place: Community Center
+address: 401 4th St, Chester, SD, 57016
+note: First Friday of the month is an Open Birthday Meeting
+type: [EN, C, B, X]
+longitude: -96.92753
+latitude: 43.894993

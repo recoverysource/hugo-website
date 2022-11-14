@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 26 1st Ave SW, Watertown, SD, 57201
+name: Higher Powered Lunch Group
+place: Watertown Senior Center
+time:
+  Friday: ['12:00']
+  Monday: ['12:00']
+type: [C, D, EN]
+longitude: -97.115542
+latitude: 44.89933025

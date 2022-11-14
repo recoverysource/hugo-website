@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 725 N Lacrosse St, Rapid City, SD, 57701
+name: Detox Meeting
+place: Detox Center
+time:
+  Friday: ['19:00']
+type: [C, X, EN]
+longitude: -103.2018216849622
+latitude: 44.09087589778895

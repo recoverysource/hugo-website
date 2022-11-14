@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 2nd Ave, Wanblee, SD, 57577
+name: Eagle Nest Butte Group
+place: Anpetu Oyate Wanblee
+time:
+  Tuesday: ['18:00']
+type: [X, O, EN]
+longitude: -101.660339
+latitude: 43.569991

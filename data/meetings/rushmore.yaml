@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 222 New York Street, Rapid City, SD, 57701
+name: Rushmore Group
+place: Journey Museum
+time:
+  Wednesday: ['19:00']
+type: [O, EN]
+longitude: -103.217683
+latitude: 44.086370

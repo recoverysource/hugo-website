@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 950 Main St, Sturgis, SD, 57785
+name: Happy Destiny Women's AA
+place: Serenity Club
+time:
+  Saturday: ['10:30']
+type: [D, O, EN, W]
+longitude: -103.50778101450884
+latitude: 44.4142957316115

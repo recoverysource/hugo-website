@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 509 S Juniper St, Freeman, SD, 57029
+name: Freeman AA Meeting
+place: Bethany Mennonite Church
+time:
+  Thursday: ['19:30']
+type: [C, X, EN]
+longitude: -97.43882291737148
+latitude: 43.35030314067636

@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Parker AA
+time:
+  Wednesday: ["20:00"]
+place: County Courthouse
+address: 400 S Main Avenue, Parker, SD, 57053
+note: |
+    Behind the bank.
+    </br >Last Wednesday of the month is an Open Birthday Meeting
+type: [EN, C, B, D]
+longitude: -97.136674
+latitude: 43.393498

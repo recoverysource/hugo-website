@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Progress Not Perfection
+time:
+  Saturday: ["10:00"]
+  Tuesday: ["17:45",  "19:00"]
+  Thursday: ["11:00"]
+place: Resurrection Christian Church
+address: 811 South Gordon Drive, Sioux Falls, SD, 57110
+note: East on 10th Street; Gordon Dr is 1 blk east of Sycamore
+type: [EN, O, B, ST, D, X]
+longitude: -96.66646389969819
+latitude: 43.540615798791436

@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+name: Breakfast Big Book Meeting
+time:
+  Monday: ['06:00']
+place: Cambell Street Cafe
+address: 211 N Cambell St, Rapid City, SD, 57701
+type: [C, B, EN]
+longitude: -103.19180228571427
+latitude: 44.0840871632653

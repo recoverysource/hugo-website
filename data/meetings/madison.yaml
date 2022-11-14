@@ -1,0 +1,17 @@
+area: 63
+district: 5
+name: Madison AA
+time:
+  Sunday: ["09:00", "19:30"]
+  Monday: ["20:00"]
+  Tuesday: ["20:00"]
+  Wednesday: ["17:30"]
+  Thursday: ["20:00"]
+  Saturday: ["10:00", "20:00"]
+address: Hwy 34 and 453rd Ave, Madison, SD, 57042
+note: |
+    South side of highway, near vet clinic; 1 mi west of town
+    <br \>Saturday meeting are Open
+type: [EN, C, B, 12x12, D, X]
+longitude: -97.149656
+latitude: 44.007188

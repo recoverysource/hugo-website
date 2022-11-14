@@ -1,0 +1,18 @@
+area: 63
+#district: ?
+address: 950 Main St, Sturgis, SD, 57785
+name: Happy Destiny AA
+place: Serenity Club
+time:
+  Friday: ['12:00']
+  Monday: ['12:00']
+  Sunday: ['16:30']
+  Thursday: ['12:00']
+  Tuesday: ['12:00']
+  Wednesday: ['12:00']
+type: [D, X, O, EN]
+note: |
+    <b>Zoom:</b> <a href="https://us02web.zoom.us/j/348404041">https://us02web.zoom.us/j/348404041</a>,
+    <b>Meeting:</b> 348-404-041 <b>Password:</b> <none>
+longitude: -103.50778101450884
+latitude: 44.4142957316115

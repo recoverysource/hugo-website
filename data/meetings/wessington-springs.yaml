@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 519 College Ave N, Wessington Springs, SD, 57382
+name: Wessington Springs AA
+place: Don A's Home
+time:
+  Thursday: ['19:00']
+type: [C, B, EN]
+longitude: -98.57431724489795
+latitude: 44.08379920408163

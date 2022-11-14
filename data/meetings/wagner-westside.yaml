@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 110 High Ave NW, Wagner, SD, 57380
+name: Westside Group
+place: St Johns Lutheran Church
+time:
+  Monday: ['20:00']
+type: [C, D, EN]
+longitude: -98.29618710204082
+latitude: 43.08184514285714

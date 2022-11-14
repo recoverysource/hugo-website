@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+address: 502 Warrior Dr, St Francis, SD, 57572
+name: Unbroken Circle
+place: Circle Clubhouse
+time:
+  Saturday: ['20:00', '11:00']
+  Sunday: ['20:00']
+  Tuesday: ['20:00']
+type: [D, X, O, EN]
+longitude: -100.900548
+latitude: 43.140103

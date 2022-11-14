@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+name: Tornado of Recovery
+time:
+  Monday: ["19:00"]
+place: Scandia Lutheran Church (basement)
+address: 251 Broadway St, Centerville, SD, 57014
+type: [O, B, EN]
+longitude: -96.9614219584731
+latitude: 43.12088616075724

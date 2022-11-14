@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 222 E 5th Ave, Milbank, SD, 57252
+name: Milbank Group
+place: Grant County Detention Center
+time:
+  Wednesday: ['20:00']
+type: [C, D, EN]
+longitude: -96.635297
+latitude: 45.217865

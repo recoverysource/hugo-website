@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: Walnut St & W 6th St, Oelrichs, SD, 57763
+name: Oelrichs AA Group
+place: Oelrichs Community Center
+time:
+  Monday: ['18:00']
+type: [X, O, EN]
+longitude: -103.233098
+latitude: 43.180915

@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 309 2nd Ave SE, Watertown, SD, 57201
+name: Grapevine Group
+place: IC Parish Center
+time:
+  Tuesday: ['18:30']
+type: [C, D, EN]
+longitude: -97.109884
+latitude: 44.89713

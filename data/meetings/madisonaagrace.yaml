@@ -1,0 +1,16 @@
+area: 63
+district: 5
+name: Madison AA
+time:
+  Sunday: ["17:30"]
+  Tuesday: ["12:00", "17:30"]
+  Wednesday: ["12:00", "17:30"]
+  Friday: ["12:00", "17:30"]
+  Thursday: ["12:00"]
+  Saturday: ["09:00"]
+place: Grace Episcopal Church
+address: 3rd Street Northwest, Madison, SD, 57042
+note: Behind Casey's
+type: [EN, C, B]
+longitude: -97.121413
+latitude: 44.008277

@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+address: 1222 Junction Ave, Sturgis, SD, 57785
+name: Sturgis AA Group
+place: St Thomas Episcopal Church
+time:
+  Monday: ['19:00']
+  Thursday: ['17:30']
+  Saturday: ['09:00']
+type: [D, O, EN]
+longitude: -103.50900089795918
+latitude: 44.41238524489796

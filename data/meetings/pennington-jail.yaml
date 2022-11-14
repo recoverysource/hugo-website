@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+address: 307 St Joseph St, Rapid City, SD, 57701
+name: Pennington Co Jail Meetings
+place: Rapid City, SD
+time:
+  Monday: ['19:00']
+  Thursday: ['19:00']
+  Tuesday: ['18:00']
+type: [C, EN]
+longitude: -103.2214687215009
+latitude: 44.07899888313782

@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 200 Main St, Draper, SD, 57531
+name: Draper AA Group
+place: St Paul Lutheran Church
+time:
+  Monday: ['20:00']
+type: [X, O, EN]
+longitude: -100.540172
+latitude: 43.926491

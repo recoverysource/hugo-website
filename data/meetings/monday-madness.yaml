@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 350 Oak St, St Francis, SD, 57572
+name: Monday Madness
+place: Icimani Ya Waste' Recovery Center
+time:
+  Monday: ['19:00']
+type: [C, EN]
+longitude: -100.903836
+latitude: 43.144712

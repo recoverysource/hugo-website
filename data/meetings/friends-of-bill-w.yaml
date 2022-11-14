@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 2411 Minnekahta Ave, Hot Springs, SD, 57747
+name: Friends of Bill W
+place: State VETS Home Bldg 1
+time:
+  Sunday: ['08:30', '19:00', '18:00', '10:00']
+type: [D, X, O, EN]
+longitude: -103.49152756060606
+latitude: 43.43747746969697

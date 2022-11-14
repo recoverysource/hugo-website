@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 1104 22nd Ave S, Brookings, SD, 57006
+name: Wednesday Men's Group
+place: Peace Lutheran Church
+time:
+  Wednesday: ['19:30']
+type: [C, B, EN, M]
+longitude: -96.7684493489227
+latitude: 44.293299124023726

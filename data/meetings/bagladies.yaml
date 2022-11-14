@@ -1,0 +1,11 @@
+area: 63
+district: 5
+name: Bag Ladies
+time:
+  Wednesday: ["12:00"]
+place: 1st United Methodist Church
+address: 401 S Spring Ave, Sioux Falls, SD, 57104
+note: Welcome to bring lunch.
+type: [EN, C, D, X]
+longitude: -96.732843
+latitude: 43.543327

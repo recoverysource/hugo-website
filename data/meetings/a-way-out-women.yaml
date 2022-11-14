@@ -1,0 +1,14 @@
+area: 63
+#district: ?
+name: A Way Out for Women
+time:
+  Monday: ['18:45']
+place: Canyon Lake United Methodist Church
+address: 3500 Canyon Lake Dr, Rapid City, SD, 57702
+note: |
+    Meeting held in the Life Center building
+    <br /><b>Zoom:</b> <a href="https://us02web.zoom.us/j/8542328048">https://us02web.zoom.us/j/8542328048</a>,
+    <br /><b>Meeting:</b> 854-232-8048 <b>Password:</b> 061035
+type: [B, O, EN, W]
+longitude: -103.277727
+latitude: 44.071634

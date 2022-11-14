@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 2425 S Western Ave, Sioux Falls, SD, 57105
+name: Women's AA Meeting
+place: Asbury United Methodist Church
+time:
+  Friday: ['11:30']
+type: [C, D, EN, W]
+longitude: -96.75128327272728
+latitude: 43.52368772727273

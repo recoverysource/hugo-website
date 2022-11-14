@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 410 1st Ave E, McLaughlin, SD, 57642
+name: Miracle Workers
+place: St. Bernard Church
+time:
+  Thursday: ['18:30']
+type: [C, D, EN]
+longitude: -100.80905752179466
+latitude: 45.81232068265986

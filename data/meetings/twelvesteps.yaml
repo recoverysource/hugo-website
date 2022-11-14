@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Twelve Steps to Sobriety
+time:
+  Friday: ["06:30"]
+place: St. John American Lutheran Church
+address: 1912 West 13th Street, Sioux Falls, SD, 57104
+phone: 605-212-8065
+note: Main floor library
+type: [EN, C, ST, X]
+# Note: Do not change this shortname without also updating ./Makefile
+longitude: -96.75148473469389
+latitude: 43.542212346938776

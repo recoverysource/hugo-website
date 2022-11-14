@@ -1,0 +1,16 @@
+area: 63
+#district: ?
+address: 1021 N Gilbert Ave, Watertown, SD, 57201
+name: Gilbert Avenue AA Group
+place: Gilbert House
+time:
+  Friday: ['12:15', '17:15', '20:15']
+  Monday: ['12:15', '17:15', '20:15']
+  Saturday: ['12:15', '20:15']
+  Sunday: ['12:15', '20:15']
+  Thursday: ['12:15', '17:15', '20:15']
+  Tuesday: ['12:15', '17:15', '20:15']
+  Wednesday: ['12:15', '17:15', '20:15']
+type: [X, B, EN, D, O]
+longitude: -97.097681
+latitude: 44.900449

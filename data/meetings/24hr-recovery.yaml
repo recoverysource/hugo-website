@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+name: 24 Hr. Recovery Group
+time:
+  Monday: ['19:00']
+place: New Beginnings Church
+address: 330 E Anamosa St, Rapid City, SD, 57701
+type: [D, O, EN]
+longitude: -103.20728159183673
+latitude: 44.09676908163265

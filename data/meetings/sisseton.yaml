@@ -1,0 +1,13 @@
+area: 63
+#district: ?
+address: 619 Main Ave, Sisseton, SD, 57262
+name: Sisseton Group
+place: St. Kateri's
+time:
+  Monday: ['20:00']
+  Sunday: ['20:00']
+  Thursday: ['20:00']
+  Tuesday: ['20:00']
+type: [C, D, X, EN]
+longitude: -97.050739
+latitude: 45.665805

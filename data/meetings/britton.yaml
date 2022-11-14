@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 911 Vander Horck St, Britton, SD, 57430
+name: Britton AA
+place: Courthouse
+time:
+  Wednesday: ['19:30']
+type: [C, X, EN]
+longitude: -97.754364
+latitude: 45.790524

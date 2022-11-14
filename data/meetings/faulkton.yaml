@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 308 15th St, Faulkton, SD, 57438
+name: Faulkton Group
+place: Lutheran Church of Faulkton
+time:
+  Thursday: ['20:00']
+type: [O, EN]
+longitude: -99.134908
+latitude: 45.031922

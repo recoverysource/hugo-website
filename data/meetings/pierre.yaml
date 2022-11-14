@@ -1,0 +1,16 @@
+area: 63
+#district: ?
+address: 325 S Garfield Ave, Pierre, SD, 57501
+name: Pierre AA Group
+place: Alano Club
+time:
+  Friday: ['12:00', '20:00']
+  Monday: ['12:00', '20:00']
+  Saturday: ['20:00']
+  Sunday: ['20:00']
+  Thursday: ['12:00', '20:00']
+  Tuesday: ['12:00', '20:00']
+  Wednesday: ['12:00', '20:00']
+type: [X, B, EN, D, O]
+longitude: -100.31643208562048
+latitude: 44.36270891704554

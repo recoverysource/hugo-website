@@ -1,0 +1,11 @@
+area: 63
+district: 5
+name: 2nd Chance AA
+time:
+  Tuesday: ["19:00"]
+  Saturday: ["10:00"]
+place: Community Reformed Church
+address: 6800 E 41st St, Sioux Falls, SD, 57110
+type: [EN, C, B, X]
+longitude: -96.660952
+latitude: 43.51484

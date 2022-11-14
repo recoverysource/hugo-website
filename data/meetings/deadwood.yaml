@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 750 Main St, Deadwood, SD, 57732
+name: Deadwood AA Group
+place: St. Ambrose Catholic Church School
+time:
+  Sunday: ['10:00']
+  Thursday: ['19:00']
+type: [C, D, EN]
+longitude: -103.73136788834807
+latitude: 44.37566026319657

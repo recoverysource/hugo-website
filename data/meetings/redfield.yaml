@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 715 E 9th St, Redfield, SD, 57469
+name: Redfield AA
+place: Alano Club
+time:
+  Thursday: ['20:00']
+  Tuesday: ['20:00']
+type: [C, D, EN]
+longitude: -98.50302766208877
+latitude: 44.87484482561305

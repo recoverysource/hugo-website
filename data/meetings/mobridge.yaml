@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 323 4th Ave E, Mobridge, SD, 57601
+name: Mobridge AA Group
+place: 412 Club
+time:
+  Tuesday: ['17:00', '20:00']
+type: [X, O, EN]
+longitude: -100.428217
+latitude: 45.535683020408165

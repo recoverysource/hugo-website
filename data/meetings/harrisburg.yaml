@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Harrisburg AA
+time:
+  Monday: ["17:30"]
+place: Harrisburg Shalom Lutheran
+address: 1000 E Maple Street, Harrisburg, SD, 57032
+note: |
+    Meeting is Open to friends and family
+    <br />Last Monday of the month is an Open Birthday Meeting
+type: [EN, C, B, D, X]
+longitude: -96.694848
+latitude: 43.428756

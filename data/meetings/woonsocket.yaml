@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 300 W 6th St, Woonsocket, SD, 57385
+name: Woonsocket AA
+place: American Legion
+time:
+  Tuesday: ['18:00']
+type: [C, X, EN]
+longitude: -98.274581
+latitude: 44.053029

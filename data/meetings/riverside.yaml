@@ -1,0 +1,17 @@
+area: 63
+#district: ?
+address: 626 1st St SW, Huron, SD, 57350
+name: Riverside AA Group
+place: Alano Club
+time:
+  Friday: ['12:00', '20:00']
+  Monday: ['12:00', '20:00']
+  Saturday: ['20:00']
+  Sunday: ['20:00']
+  Thursday: ['20:00']
+  Tuesday: ['20:00']
+  Wednesday: ['12:00', '20:00']
+type: [B, X, O, EN]
+note: 'Call in #<a href="tel:978-990-5000">978-990-5000</a>, Code: 665317#'
+longitude: -98.22434983673469
+latitude: 44.36557453061224

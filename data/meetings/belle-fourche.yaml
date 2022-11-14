@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+name: Belle Fourche AA Group
+time:
+  Saturday: ['20:00']
+  Thursday: ['20:00']
+  Tuesday: ['20:00']
+place: St. James Episcopal Church (Guild Hall)
+address: 806 6th Ave, Belle Fourche, SD, 57717
+type: [D, O, EN]
+longitude: -103.85225119871994
+latitude: 44.66946124703351

@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: Gall St, Lower Brule, SD, 57548
+name: Lower Brule AA
+place: Lower Brule Friendship House
+time:
+  Monday: ['19:00']
+  Thursday: ['19:00']
+type: [C, X, EN]
+longitude: -99.582044
+latitude: 44.0749858

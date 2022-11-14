@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 203 E Garfield Ave, Gettysburg, SD, 57442
+name: Gettysburg Group
+place: Catholic Church
+time:
+  Tuesday: ['20:00']
+type: [X, O, EN]
+longitude: -99.95400289795919
+latitude: 45.013616795918374

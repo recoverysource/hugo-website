@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 321 Main St S, Arlington, SD, 57212
+name: Pass It On Group
+place: Trinity Lutheran Church
+time:
+  Tuesday: ['19:00']
+type: [X, O, EN]
+longitude: -97.13790656575078
+latitude: 44.36073974153973

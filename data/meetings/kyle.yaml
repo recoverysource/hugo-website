@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 200 Main St, Kyle, SD, 57752
+name: Kyle AA
+place: St Paul Lutheran Church
+time:
+  Wednesday: ['20:00']
+type: [D, O, EN]
+longitude: -102.181725
+latitude: 43.423855

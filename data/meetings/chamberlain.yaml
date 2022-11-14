@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 400 S Main St, Chamberlain, SD, 57325
+phone: 605-730-0700
+name: Chamberlain AA Group
+place: St. James Catholic Church
+time:
+  Tuesday: ['20:00']
+type: [D, O, EN]
+longitude: -99.33311188763602
+latitude: 43.8077342

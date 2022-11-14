@@ -1,0 +1,14 @@
+area: 63
+#district: ?
+address: 816 E Clark St, Vermillion, SD, 57069
+name: Vermillion Unity AA 12 Steps/Traditions
+place: Trinity Lutheran Church
+time:
+  Tuesday: ['19:30']
+  Wednesday: ['19:30']
+  Saturday: ['19:30']
+  Sunday: ['19:30']
+note: Wednesday meetings are Open
+type: [C, EN, B, X]
+longitude: -96.91910932097089
+latitude: 42.7828585

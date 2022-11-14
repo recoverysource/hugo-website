@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 325 S Garfield Ave, Pierre, SD, 57501
+name: Oahe, We are Not Saints Group
+place: Alano Club
+time:
+  Friday: ['17:30']
+  Monday: ['17:30']
+type: [C, D, B, EN]
+longitude: -100.31643208562048
+latitude: 44.36270891704554

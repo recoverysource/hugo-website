@@ -1,0 +1,11 @@
+area: 63
+#district: ?
+address: 602 W 9th St, Winner, SD, 57580
+name: Winner Westside Group
+place: Trinity Episcopal Church
+time:
+  Saturday: ['20:00']
+  Tuesday: ['20:00']
+type: [C, D, X, EN]
+longitude: -99.86465563636364
+latitude: 43.370262090909094

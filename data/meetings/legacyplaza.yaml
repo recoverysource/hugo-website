@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+name: AA 101
+time:
+  Saturday: ['18:30']
+place: Legacy Plaza
+address: 110 4th St SE, Huron, SD, 57350
+type: [D, O, EN]
+longitude: -98.21213283263546
+latitude: 44.36196435606247

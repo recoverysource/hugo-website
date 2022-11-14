@@ -1,0 +1,12 @@
+area: 63
+#district: ?
+address: 606 N Commercial St, Clark, SD, 57225
+name: UMC AA
+place: 606 N. Commerical St
+time:
+  Sunday: ['16:00']
+  Thursday: ['19:00']
+  Tuesday: ['19:00']
+type: [C, EN]
+longitude: -97.73333052134502
+latitude: 44.8836156154239

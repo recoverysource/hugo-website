@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+address: 200 N Dakota Ave, Sioux Falls, SD, 57104
+name: Downtown AA Meeting
+place: Siouxland Downtown Library
+time:
+  Wednesday: ['17:30']
+type: [C, B, EN]
+longitude: -96.729696
+latitude: 43.548744
