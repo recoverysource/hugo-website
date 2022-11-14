@@ -1,0 +1,11 @@
+name = "Area63AA"
+license = "GPLv2"
+licenselink = "https://github.com/siouxfallsaa/aamod/blob/master/LICENSE.md"
+description = "Modification to aamod"
+homepage = "https://github.com/siouxfallsaa/aamod"
+tags = ["aa", "alcoholics anonymous", "responsive"]
+features = ["aa", "alcoholics anonymous", "responsive"]
+min_version = "0.48"
+[author]
+  name = "Michael Lustfield"
+  homepage = "https://michael.lustfield.net"

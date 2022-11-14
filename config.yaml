@@ -2,7 +2,7 @@ baseURL: https://area63aa.org/
 title: Area 63 (SD)
 
 languageCode: en-us
-theme: [aamod, mainroad]
+theme: [area63, aamod, mainroad]
 sectionPagesMenu: main
 paginate: 100
 buildFuture: true

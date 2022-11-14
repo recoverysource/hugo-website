@@ -1,0 +1,10 @@
+.header__container {
+	background-image: url("/img/mountains.jpg");
+	background-size: 60em;
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+
+.logo__text {
+        text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
