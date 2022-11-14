@@ -1,0 +1,142 @@
+/**
+ * Banner
+ **/
+
+.header__container {
+	background-image: url("/img/clouds.png");
+	background-size: 24em;
+	background-repeat: repeat;
+	background-position: bottom;
+}
+
+.logo__text {
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+/**
+ * Button
+ **/
+
+.btn {
+	background: #00378c;
+}
+
+.btn:hover {
+	background: #aa1517;
+}
+
+/**
+ * Resources Links
+ **/
+
+.widget__title {
+	border-color: #aa1517;
+}
+
+.widget__item {
+	border: 0 none;
+}
+
+.widget-resources__item {
+	display: inline-block;
+	padding: 5px 1px;
+}
+
+.widget-sidemenu a {
+	color: #004ec8;
+	font-weight: 700;
+}
+
+.widget-sidemenu a:hover {
+	color: #e22d30;
+}
+
+/**
+ * Google Map
+ **/
+
+.gmap {
+	min-width: 200px;
+	width: 100%;
+	height: 450px;
+	border: 0;
+}
+
+.maplink {
+	color: #aa1517;
+	font-weight: 700;
+}
+
+/**
+ * Page Contents (heading links)
+ **/
+
+.toc__menu li {
+	display: inline-block;
+	padding: 1px;
+}
+
+.toc__menu li a {
+	background: #00378c;
+	color: #fff;
+	transition: background-color .25s ease-out;
+	padding-left: 10px !important;
+}
+
+.toc__menu li a:hover {
+	background: #aa1517;
+	text-decoration: none;
+}
+
+/**
+ * Main Menu
+ **/
+
+.menu {
+	border-color: #aa1517;
+}
+
+.menu__item--active {
+	background: #aa1517;
+}
+
+.menu__item:hover{
+	background: #aa1517;
+}
+
+.menu__link:hover {
+	background: #aa1517;
+}
+
+/**
+ * Table of Contents
+ **/
+
+.toc {
+	border: 0 none;
+}
+
+.toc__title {
+	display: none;
+}
+
+/**
+ * Page Links
+ **/
+
+.content a {
+	color: #004ec8;
+}
+
+.content a:hover {
+	color: #e22d30;
+	text-decoration: none;
+}
+
+/**
+ * Footer
+ **/
+
+.footer a {
+	color: #93cddd;
+}
