@@ -11,6 +11,6 @@ time:
   Thursday: ['12:15', '17:15', '20:15']
   Tuesday: ['12:15', '17:15', '20:15']
   Wednesday: ['12:15', '17:15', '20:15']
-type: [X, B, EN, D, O]
+type: [X, B, EN, D, C]
 longitude: -97.097681
 latitude: 44.900449
