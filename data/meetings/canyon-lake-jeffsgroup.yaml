@@ -1,0 +1,10 @@
+area: 63
+#district: ?
+name: Al & Jeff's Group
+time:
+  Wednesday: ['19:00']
+place: Canyon Lake Activity Center
+address: 2900 Canyon Lake Dr, Rapid City, SD, 57702
+type: [B, O, EN]
+longitude: -103.277727
+latitude: 44.071634
