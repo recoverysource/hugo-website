@@ -2,7 +2,7 @@ name: Notify District-5 (siouxfallsaa.org)
 on:
   push:
     paths:
-      - data/meetings/**
+      - data/meetings/d5-**
 
 jobs:
   build:
