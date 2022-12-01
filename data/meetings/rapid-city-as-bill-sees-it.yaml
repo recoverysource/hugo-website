@@ -1,9 +1,0 @@
-area: 63
-#district: ?
-name: As Bill Sees It
-time:
-  Sunday: ['08:00']
-address: 325 Deadwood Ave, Rapid City, SD, 57702
-type: [EN, C, B, D]
-longitude: -103.256736
-latitude: 44.083157

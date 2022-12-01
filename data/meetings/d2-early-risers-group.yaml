@@ -1,0 +1,11 @@
+area: 63
+district: 2
+address: 325 Deadwood Ave, Rapid City, SD, 57702
+name: Early Risers Group
+time:
+  Monday: ['06:45']
+  Tuesday: ['06:45']
+  Wednesday: ['06:45']
+  Thursday: ['06:45']
+  Friday: ['06:45']
+type: [O, WA, R, EN]

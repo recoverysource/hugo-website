@@ -1,0 +1,10 @@
+area: 63
+district: 2
+address: 4500 Jackson Blvd, Rapid City, SD, 57702
+name: Monday Night Men's Group
+place: Blessed Sacrament Catholic Church
+time:
+  Monday: ['19:00']
+type: [C, T, M, WA, R, EN]
+longitude: -103.29456377482609
+latitude: 44.0618583

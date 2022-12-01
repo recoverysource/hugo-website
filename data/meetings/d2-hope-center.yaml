@@ -1,0 +1,7 @@
+area: 63
+district: 2
+address: 326 Deadwood Ave, Rapid City, SD, 57702
+name: Hope Center
+time:
+  Wednesday: ['10:00']
+type: [O, T, D, EN]

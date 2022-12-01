@@ -1,0 +1,10 @@
+area: 63
+district: 2
+address: 328 Deadwood Ave, Rapid City, SD, 57702
+name: Happy Hour Group
+time:
+  Monday: ['17:30']
+  Tuesday: ['17:30']
+  Thursday: ['17:30']
+  Friday: ['17:30']
+type: [C, T, WA, R, EN]

@@ -1,0 +1,8 @@
+area: 63
+district: 2
+address: 5112 Mc-2 Rd, Black Hawk, SD, 57718
+name: Black Hawk Group
+place: Black Hawk Community Church (Exit 52)
+time:
+  Thursday: ['18:30']
+type: [O, T, SP, R, ST, WA, EN]

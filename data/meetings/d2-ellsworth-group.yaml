@@ -1,0 +1,8 @@
+area: 63
+district: 2
+address: 120 Box Elder Rd, Box Elder, SD, 57719
+name: Ellsworth Group
+place: Fire Hall
+time:
+  Friday: ['19:30']
+type: [O, T, WA, R, EN]

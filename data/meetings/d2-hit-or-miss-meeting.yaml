@@ -1,0 +1,9 @@
+area: 63
+district: 2
+address: 325 Deadwood Ave, Rapid City, SD, 57702
+name: Hit or Miss Meeting
+time:
+  Monday: ['19:00']
+  Thursday: ['19:00']
+  Saturday: ['19:00']
+type: [C, BB, WA, R, EN]

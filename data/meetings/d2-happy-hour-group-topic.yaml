@@ -1,0 +1,7 @@
+area: 63
+district: 2
+address: 330 Deadwood Ave, Rapid City, SD, 57702
+name: Happy Hour Group (topic)
+time:
+  Wednesday: ['17:30']
+type: [O, T, WA, EN]

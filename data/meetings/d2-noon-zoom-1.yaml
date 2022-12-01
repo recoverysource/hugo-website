@@ -1,0 +1,15 @@
+area: 63
+name: Noon Zoom
+time:
+  Monday: ["12:00"]
+  Tuesday: ["12:00"]
+  Wednesday: ["12:00"]
+  Thursday: ["12:00"]
+  Friday: ["12:00"]
+address: zoom,Online-Only,,
+note: |
+    <b>Zoom:</b> <a href="https://us02web.zoom.us/j/8542328048">https://us02web.zoom.us/j/8542328048</a>,
+    <br /><b>Meeting:</b> 854-232-8048 <b>Password:</b> 061035
+type: [EN, C, D]
+longitude: -1
+latitude: -1

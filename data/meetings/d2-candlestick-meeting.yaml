@@ -1,0 +1,7 @@
+area: 63
+district: 2
+address: 330 Deadwood Ave, Rapid City, SD, 57702
+name: Candlestick Meeting
+time:
+  Saturday: ['22:00']
+type: [O, T, D, WA, EN]
