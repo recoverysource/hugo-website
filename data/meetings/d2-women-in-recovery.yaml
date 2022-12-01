@@ -4,6 +4,6 @@ address: 329 Deadwood Ave, Rapid City, SD, 57702
 name: Women in Recovery
 time:
   Thursday: ['18:00']
-type: [O, W, T, WA, R, EN]
+type: [O, W, D, X, EN]
 longitude: -103.26098153616836
 latitude: 44.08807619599248

@@ -5,6 +5,6 @@ name: Hope Center
 place: First United Methodist Church
 time:
   Thursday: ['10:00']
-type: [D, O, T, EN]
+type: [D, O, EN]
 longitude: -103.22910527829339
 latitude: 44.0788793

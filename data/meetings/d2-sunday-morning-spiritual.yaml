@@ -5,6 +5,6 @@ name: Sunday Morning Spiritual
 place: Card Room & Pool Room
 time:
   Sunday: ['10:30']
-type: [O, T, WA, R, EN]
+type: [O, D, X, EN]
 longitude: -103.26095477809162
 latitude: 44.08805131249051

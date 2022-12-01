@@ -6,6 +6,6 @@ place: Methodist Church
 time:
   Friday: ['20:00']
   Tuesday: ['20:00']
-type: [O, T, WA, EN]
+type: [O, D, X, EN]
 longitude: -102.240242
 latitude: 43.99200244892314

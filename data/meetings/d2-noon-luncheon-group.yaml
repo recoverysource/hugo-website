@@ -8,6 +8,6 @@ time:
   Wednesday: ['12:00']
   Thursday: ['12:00']
   Friday: ['12:00']
-type: [O, T, WA, R, EN]
+type: [O, D, X, EN]
 longitude: -103.26096942626592
 latitude: 44.08806250519805

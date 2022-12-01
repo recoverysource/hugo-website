@@ -5,6 +5,6 @@ time:
   Monday: ['18:45']
 place: Canyon Lake United Methodist Church
 address: 3500 Canyon Lake Dr, Rapid City, SD, 57702
-type: [O, W, S, SP, D, WA, CC, EN]
+type: [O, W, S, SP, D, X, BA, EN]
 longitude: -103.277727
 latitude: 44.071634

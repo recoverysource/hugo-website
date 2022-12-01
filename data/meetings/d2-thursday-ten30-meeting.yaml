@@ -4,6 +4,6 @@ address: 325 Deadwood Ave, Rapid City, SD, 57702
 name: Thursday 10:30 Meeting
 time:
   Thursday: ['10:30']
-type: [C, T, D, WA, EN]
+type: [C, D, X, EN]
 longitude: -103.26095477809162
 latitude: 44.08805131249051

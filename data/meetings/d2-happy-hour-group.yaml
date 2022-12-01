@@ -7,6 +7,6 @@ time:
   Tuesday: ['17:30']
   Thursday: ['17:30']
   Friday: ['17:30']
-type: [C, T, WA, R, EN]
+type: [C, D, X, EN]
 longitude: -103.26097605739707
 latitude: 44.0880687835372

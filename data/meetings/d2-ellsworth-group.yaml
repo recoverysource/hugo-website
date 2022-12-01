@@ -5,6 +5,6 @@ name: Ellsworth Group
 place: Fire Hall
 time:
   Friday: ['19:30']
-type: [O, T, WA, R, EN]
+type: [O, D, X, EN]
 longitude: -103.08001382843473
 latitude: 44.11427831903623

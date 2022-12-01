@@ -4,6 +4,6 @@ address: 326 Deadwood Ave, Rapid City, SD, 57702
 name: Hope Center
 time:
   Wednesday: ['10:00']
-type: [O, T, D, EN]
+type: [O, D, EN]
 longitude: -103.26096210217877
 latitude: 44.08805690884428

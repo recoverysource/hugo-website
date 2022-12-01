@@ -4,6 +4,6 @@ address: 325 Deadwood Ave, Rapid City, SD, 57702
 name: Dawn Patrol Group
 time:
   Saturday: ['06:45']
-type: [C, ST, WA, R, EN]
+type: [C, ST, X, EN]
 longitude: -103.26095477809162
 latitude: 44.08805131249051

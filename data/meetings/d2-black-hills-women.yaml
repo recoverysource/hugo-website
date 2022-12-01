@@ -4,6 +4,6 @@ address: 329 Deadwood Ave, Rapid City, SD, 57702
 name: Black Hills Women’s Step Study
 time:
   Monday: ['17:30']
-type: [O, ST, WA, W, EN]
+type: [O, ST, X, W, EN]
 longitude: -103.26098153616836
 latitude: 44.08807619599248
