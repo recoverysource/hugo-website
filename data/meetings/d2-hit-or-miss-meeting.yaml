@@ -7,3 +7,5 @@ time:
   Thursday: ['19:00']
   Saturday: ['19:00']
 type: [C, BB, WA, R, EN]
+longitude: -103.26095477809162
+latitude: 44.08805131249051

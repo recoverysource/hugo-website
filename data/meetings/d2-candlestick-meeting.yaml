@@ -5,3 +5,5 @@ name: Candlestick Meeting
 time:
   Saturday: ['22:00']
 type: [O, T, D, WA, EN]
+longitude: -103.26098701493966
+latitude: 44.088083608447754

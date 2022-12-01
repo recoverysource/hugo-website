@@ -6,3 +6,5 @@ place: Cambell Street Café
 time:
   Monday: ['06:30']
 type: [C, WA, R, EN]
+longitude: -103.26095477809162
+latitude: 44.08805131249051

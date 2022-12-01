@@ -5,3 +5,5 @@ name: Hope Center
 time:
   Wednesday: ['10:00']
 type: [O, T, D, EN]
+longitude: -103.26096210217877
+latitude: 44.08805690884428

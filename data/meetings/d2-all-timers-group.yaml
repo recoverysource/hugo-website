@@ -5,3 +5,5 @@ name: All Timers Group
 time:
   Saturday: ['09:15']
 type: [C, ST, WA, R, EN]
+longitude: -103.26096942626592
+latitude: 44.08806250519805

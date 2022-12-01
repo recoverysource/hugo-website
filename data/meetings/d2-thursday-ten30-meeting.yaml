@@ -5,3 +5,5 @@ name: Thursday 10:30 Meeting
 time:
   Thursday: ['10:30']
 type: [C, T, D, WA, EN]
+longitude: -103.26095477809162
+latitude: 44.08805131249051
