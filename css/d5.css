@@ -1,0 +1,11 @@
+.logo {
+	background-image: url("/img/fields.png");
+	background-size: 28em;
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+
+table {
+	display: block;
+	overflow: scroll;
+}
