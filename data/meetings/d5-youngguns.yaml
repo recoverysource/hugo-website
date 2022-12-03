@@ -1,0 +1,13 @@
+area: 63
+district: 5
+name: Young Guns AA
+time:
+  Sunday: ["19:30"]
+place: Calvary Episcopal Church
+address: 500 S Main Ave, Sioux Falls, SD, 57104
+note: |
+    Use the north door on 13th St.
+    <br>Last Sunday of the month is an Open Speaker meeting.
+type: [EN, C, ST, X]
+longitude: -96.72787233111761
+latitude: 43.542266272766064
