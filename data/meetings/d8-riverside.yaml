@@ -1,0 +1,16 @@
+area: 63
+district: 8
+name: Riverside AA
+place: Riverside Alano Club
+address: 626 1st St SW, Huron, SD, 57350
+time:
+  Sunday: ['12:00']
+  Tuesday: ['12:00']
+  Wednesday: ['17:15']
+  Thursday: ['12:00']
+  Saturday: ['12:00']
+type: [EN, O, D, X]
+note: |
+    All noon meetings are available by phone using 978-990-5000 / 560223#.
+longitude: -98.22348335008682
+latitude: 44.36554069880617

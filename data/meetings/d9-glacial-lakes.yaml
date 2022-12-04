@@ -1,0 +1,10 @@
+area: 63
+district: 9
+address: 612 3rd Ave NE, Watertown, SD, 57201
+name: Glacial Lakes Sunday Night Speakers
+place: Trinity Episcopal Church
+time:
+  Sunday: ['17:30']
+type: [X, SP, O, EN]
+longitude: -97.10367560109464
+latitude: 44.90490294805289
