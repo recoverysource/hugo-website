@@ -1,5 +1,5 @@
 baseURL: https://aamod-demo.area63aa.org/
-title: Statestown AA
+title: Statestown AA (Demo Site)
 
 languageCode: en-us
 theme: [aamod, mainroad]
@@ -8,16 +8,16 @@ paginate: 100
 buildFuture: true
 
 Params:
-  description: Statestown Intergroup
+  description: Statestown Demonstration Intergroup
   source: https://github.com/YOUR-PROJECT/YOUR-REPO/tree/master
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
   #mapcenter: {lat: 43.536388, lng: -96.731667}
   #mapzoom: 10
-  copyright: Statestown Intergroup
+  copyright: Statestown Demonstration Intergroup
   phone: 123-456-7890
   logo:
     image: img/AAlogo.png
-    title: Statestown AA Intergroup
+    title: Statestown Demonstration Intergroup
   toc: true
   mainSections: [home, meetings, about, events]
   sidebar:
