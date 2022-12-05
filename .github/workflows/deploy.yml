@@ -27,11 +27,14 @@ jobs:
       - name: Pull Submodules (themes)
         run: git submodule update --init --recursive
 
-      - name: Check Files Exist
+      # Modifications to template used to deploy demo site
+      - name: Demo Site Tweaks
         if: github.repository == 'recoverysource/hugo-website'
         run: |
             [ -f 'config.yaml' ] || cp example-config.yaml config.yaml
             [ -e data/meetings* ] || cp data/example-meetings.yaml data/meetings.yaml
+            [ -f 'content/example-contact.md' ] || cp content/example-contact.md content/contact.md
+            echo 'aamod-demo.area63aa.org' >static/CNAME
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
