@@ -1,10 +1,11 @@
 area: 63
-#district: ?
+district: 12
 name: Armour AA
 time:
   Wednesday: ['20:00']
 place: Douglas County Court House
 address: 706 Braddock Street, Armour, SD, 57313
-type: [O, EN]
+type: [C, EN]
+note: Open birthday meeting on the last day of the month.
 longitude: -98.344754
 latitude: 43.31800244963097

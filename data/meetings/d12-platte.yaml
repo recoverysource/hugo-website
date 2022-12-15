@@ -1,10 +1,11 @@
 area: 63
-#district: ?
+district: 12
 name: Platte AA
 time:
   Thursday: ['20:00']
 place: Olive Presbyterian Church
 address: 501 1st St, Platte, SD, 57369
-type: [O, EN]
+note: Open birthday meeting on the last day of the month.
+type: [C, EN]
 longitude: -98.837914
 latitude: 43.390280
