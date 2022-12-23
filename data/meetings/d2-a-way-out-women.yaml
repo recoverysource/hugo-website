@@ -5,6 +5,8 @@ time:
   Monday: ['18:45']
 place: Canyon Lake United Methodist Church
 address: 3500 Canyon Lake Dr, Rapid City, SD, 57702
-type: [O, W, S, SP, D, X, BA, EN]
+type: [EN, O, B, D, SP, W, G, X]
+note: |
+    The zoom number is 8542328048 and the password is 061035.
 longitude: -103.277727
 latitude: 44.071634
