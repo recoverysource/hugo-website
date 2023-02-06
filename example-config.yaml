@@ -1,5 +1,5 @@
-baseURL: https://localaagroup.org/
-title: Local Area
+baseURL: https://aamod-demo.area63aa.org/
+title: Statestown AA (Demo Site)
 
 languageCode: en-us
 theme: [aamod, mainroad]
@@ -8,16 +8,16 @@ paginate: 100
 buildFuture: true
 
 Params:
-  description: Local Intergroup
+  description: Statestown Demonstration Intergroup
   source: https://github.com/YOUR-PROJECT/YOUR-REPO/tree/master
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
   #mapcenter: {lat: 43.536388, lng: -96.731667}
   #mapzoom: 10
-  copyright: Local Intergroup
+  copyright: Statestown Demonstration Intergroup
   phone: 123-456-7890
   logo:
     image: img/AAlogo.png
-    title: Local AA Intergroup
+    title: Statestown Demonstration Intergroup
   toc: true
   mainSections: [home, meetings, about, events]
   sidebar:
@@ -53,7 +53,7 @@ pdf-cols:
 pdf-blurbs:
   front: |
     \vskip 2ex {\footnotesize If you have changes to this directory, please write to:}
-    \vskip 1ex {\large Local Area Intergroup\\
+    \vskip 1ex {\large Statestown Area Intergroup\\
     P.O. Box 1\\
     City, ST 42024}
   alanon: |
@@ -61,9 +61,9 @@ pdf-blurbs:
     {\7pt\textbf{24-Hour Hotline:} (123) 456-7890}\\
     {\7pt\textbf{Al-Anon Information:} al-anon.org}
   resources: |
-    {\7pt\textbf{Local Area:} localaagroup.org/meeting-times}\\
+    {\7pt\textbf{Statestown Area:} aamod-demo.area63aa.org/meeting-times}\\
     {\7pt\textbf{South Dakota State:} www.area63.org}
   details: |
-    \textbf{Local Area Intergroup}\\
+    \textbf{Statestown Area Intergroup}\\
     Meets at: Very Local AA\\
     {\6pt Every 2nd Sunday of the month at 4:30 PM}
