@@ -15,5 +15,5 @@ menu: side
 
 **Phone:** [605-692-9471](tel:605-692-9471)
 
-- [Registration](https://area63aa.org/register/)
+- [Registration](https://www.eventbrite.com/e/area-63-spring-conference-2023-tickets-555922407887)
 - [Save the Date](/events/2023-area63-spring-conference/Flyer-1.-2023-Spring-Conference-Flyer-Save-the-Date.pdf)
