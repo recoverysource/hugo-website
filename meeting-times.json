@@ -17,8 +17,8 @@
         ],
         "approximate": false,
         "address": "123 N Main Ave",
-        "city": "CityName",
-        "state": "ST",
+        "city": "Sioux Falls",
+        "state": "SD",
         "postal_code": "42042",
         "country": "US"
     },
@@ -40,8 +40,8 @@
         ],
         "approximate": false,
         "address": "123 N Main Ave",
-        "city": "CityName",
-        "state": "ST",
+        "city": "Sioux Falls",
+        "state": "SD",
         "postal_code": "42042",
         "country": "US"
     },
@@ -63,8 +63,8 @@
         ],
         "approximate": false,
         "address": "789 10th St",
-        "city": "CityName",
-        "state": "ST",
+        "city": "Sioux Falls",
+        "state": "SD",
         "postal_code": "42424",
         "country": "US"
     },
@@ -86,8 +86,8 @@
         ],
         "approximate": false,
         "address": "789 10th St",
-        "city": "CityName",
-        "state": "ST",
+        "city": "Sioux Falls",
+        "state": "SD",
         "postal_code": "42424",
         "country": "US"
     },
@@ -109,8 +109,8 @@
         ],
         "approximate": false,
         "address": "123 N Main Ave",
-        "city": "CityName",
-        "state": "ST",
+        "city": "Sioux Falls",
+        "state": "SD",
         "postal_code": "42042",
         "country": "US"
     }
