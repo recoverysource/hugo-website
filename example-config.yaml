@@ -1,4 +1,4 @@
-baseURL: https://aamod-demo.area63aa.org/
+baseURL: https://aamod-demo.recoverysource.io/
 title: Statestown AA (Demo Site)
 
 languageCode: en-us
@@ -61,7 +61,7 @@ pdf-blurbs:
     {\7pt\textbf{24-Hour Hotline:} (123) 456-7890}\\
     {\7pt\textbf{Al-Anon Information:} al-anon.org}
   resources: |
-    {\7pt\textbf{Statestown Area:} aamod-demo.area63aa.org/meeting-times}\\
+    {\7pt\textbf{Statestown Area:} aamod-demo.recoverysource.io/meeting-times}\\
     {\7pt\textbf{South Dakota State:} www.area63.org}
   details: |
     \textbf{Statestown Area Intergroup}\\
