@@ -1,0 +1,52 @@
+##
+# Sample configuration used for exampleSite (aamod-demo.recoverysource.io)
+# Documentation: https://recoverysource.io/aamod/prebuild.html
+##
+baseURL: https://template-demo.recoverysource.io/
+
+# List of content to build
+#builders: [stubs, pdf]
+
+# Location of meeting data (directory will be checked if .yaml is missing)
+meeting-data: data/example-meetings.yaml
+
+# Location of generated stubs
+# CAUTION: Any files matching this pattern will be purged before generation
+#stub-path: content/meetings/{shortname}.md
+
+# Location of generated .pdf (and .tex)
+#pdf-path: static/meeting-schedule.pdf
+
+# Number of columns used to display content
+#pdf-cols:
+  # Columns used on the second page (full sheet)
+  #aalist: 4
+  # Columns used on the front (quarter sheet)
+  #anonlist: 2
+
+# Content that is dropped into the generated .tex file
+pdf-blurbs:
+  # Image displayed in folded booklet
+  image: themes/aamod/static/img/AAlogo.jpg
+  # Helpline phone number
+  helpline: 1-800-123-4567
+  # Front cover of folded booklet
+  front: |
+    \vskip 2ex {\footnotesize If you have changes to this directory, please write to:}
+    \vskip 1ex {\large Statestown Area Intergroup\\
+    P.O. Box 1\\
+    City, ST 42024}
+  # Note above al-anon meetings (inside-right)
+  alanon: |
+    {\7pt Al-Anon members are people who are worried about someone with a drinking problem.}\\
+    {\7pt\textbf{24-Hour Hotline:} (123) 456-7890}\\
+    {\7pt\textbf{Al-Anon Information:} al-anon.org}
+  # Links to additional resources on back of folded booklet
+  resources: |
+    {\7pt\textbf{Statestown Area:} template-demo.recoverysource.io/meeting-times}\\
+    {\7pt\textbf{South Dakota State:} www.area63.org}
+  # Informational box on bottom-right of back (second) page
+  details: |
+    \textbf{Statestown Area Intergroup}\\
+    Meets at: Very Local AA\\
+    {\6pt Every 2nd Sunday of the month at 4:30 PM}

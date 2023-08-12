@@ -4,26 +4,32 @@
 # Most common commands: [run, clean]
 ##
 
-public/index.html: gen_content
+site/index.html: prebuild
 	hugo --minify -d site
 
 browse: site/index.html
 	sensible-browser site/index.html
 
-run: gen_content
+run: prebuild
 	hugo server --disableFastRender
 
-gen_content:
-	python3 ./themes/aamod/generate_content.py
+prebuild:
+	python3 themes/aamod/prebuild.py
+
+# Exclusively for template-demo
+demotweaks:
+	sed 's/draft: true/draft: false/' content/example-contact.md >content/contact.md
+	cp data/example-meetings.yaml data/meetings.yaml
+	cp example-prebuild.yaml prebuild.yaml
+	cp example-config.yaml config.yaml
+	cp static/example-CNAME static/CNAME
 
 clean:
 	# hugo
-	$(RM) -r .hugo_build.lock site resources
-	# generate_content.py
-	$(RM) content/meeting-zips.md content/meeting-times.md static/meeting-times.json
-	find content/meetings ! -name '_index.md' -type f -exec rm {} +
-	$(RM) static/meeting-schedule.tex static/meeting-schedule.pdf
-	$(RM) meeting-schedule.aux meeting-schedule.log
-	$(RM) data/geos.yaml
+	$(RM) -r exampleSite/.hugo_build.lock exampleSite/site exampleSite/resources
+	# prebuild
+	find exampleSite/content/meetings ! -name '_index.md' -type f -exec rm {} +
+	$(RM) exampleSite/static/meeting-schedule.tex exampleSite/static/meeting-schedule.pdf
+	$(RM) exampleSite/meeting-schedule.aux exampleSite/meeting-schedule.log
 
-.PHONY: browse gen_content clean
+.PHONY: browse prebuild demotweaks clean

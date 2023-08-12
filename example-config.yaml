@@ -1,4 +1,4 @@
-baseURL: https://aamod-demo.recoverysource.io/
+baseURL: https://template-demo.recoverysource.io/
 title: Statestown AA (Demo Site)
 
 languageCode: en-us
@@ -8,16 +8,15 @@ paginate: 100
 buildFuture: true
 
 Params:
-  description: Statestown Demonstration Intergroup
+  description: Statestown Demonstration
   source: https://github.com/YOUR-PROJECT/YOUR-REPO/tree/master
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
-  #mapcenter: {lat: 43.536388, lng: -96.731667}
-  #mapzoom: 10
-  copyright: Statestown Demonstration Intergroup
+  mapapikey: "AIzaSyA0zujVEN5nzVoZDI7G-Lo3GTwoLBckZGw"
+  copyright: Statestown Demonstration
   phone: 123-456-7890
   logo:
     image: img/AAlogo.png
-    title: Statestown Demonstration Intergroup
+    title: Statestown Demonstration
   toc: true
   mainSections: [home, meetings, about, events]
   sidebar:
@@ -27,12 +26,16 @@ Params:
   widgets:
 
     resources:
+      cached: true
+      links:
       - title: Meeting Schedule
         url: /meeting-schedule.pdf
       - title: Big Book Online
         url: https://www.aa.org/bigbookonline/
 
     aasites:
+      cached: true
+      links:
       - title: A.A. Area 63 (S.D.)
         url: https://area63aa.org/
       - title: A.A. World Services
@@ -45,25 +48,3 @@ markup:
     renderer:
       # Permit raw HTML in content
       unsafe: true
-
-pdf-cols:
-  aalist: 4
-  anonlist: 2
-
-pdf-blurbs:
-  front: |
-    \vskip 2ex {\footnotesize If you have changes to this directory, please write to:}
-    \vskip 1ex {\large Statestown Area Intergroup\\
-    P.O. Box 1\\
-    City, ST 42024}
-  alanon: |
-    {\7pt Al-Anon members are people who are worried about someone with a drinking problem.}\\
-    {\7pt\textbf{24-Hour Hotline:} (123) 456-7890}\\
-    {\7pt\textbf{Al-Anon Information:} al-anon.org}
-  resources: |
-    {\7pt\textbf{Statestown Area:} aamod-demo.recoverysource.io/meeting-times}\\
-    {\7pt\textbf{South Dakota State:} www.area63.org}
-  details: |
-    \textbf{Statestown Area Intergroup}\\
-    Meets at: Very Local AA\\
-    {\6pt Every 2nd Sunday of the month at 4:30 PM}

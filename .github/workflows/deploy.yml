@@ -22,7 +22,7 @@ jobs:
       - name: Install Dependencies
         run: |
             sudo apt-get update
-            sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra python3-geopy
+            sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra
 
       - name: Pull Submodules (themes)
         run: git submodule update --init --recursive
@@ -30,7 +30,7 @@ jobs:
       # Modifications to template used to deploy demo site
       - name: Demo Site Tweaks
         if: github.repository == 'recoverysource/hugo-website'
-        run: cp -R themes/aamod/exampleSite/* ./
+        run: make demotweaks
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
