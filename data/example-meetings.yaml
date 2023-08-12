@@ -27,96 +27,394 @@
 # exist here to provide realistic sample data.
 ##
 
-2ndchanceaa:
-  name: 2nd Chance AA
+d3-serenity-fellowship:
+  name: Serenity Fellowship
   time:
-    Tuesday: ["19:00"]
-    Saturday: ["10:00"]
-  place: Community Reformed Church
-  address: 6800 E 41st St, Sioux Falls, SD, 57110
-  type: [EN, C, B, X]
+    Monday: ["17:30", "19:00"]
+    Wednesday: ["17:30", "19:00"]
+    Friday: ["17:30", "19:00"]
+  place: Unity Hall
+  address: 715 E 9th St, Redfield, SD, 57469
+  longitude: -98.50302766208877
+  latitude: 44.87484482561305
+  note: This is for demonstration.
+  type: [EN, O]
+  hidefrom: [json, pdf]
 
-beresfordaa:
-  name: Beresford AA
+d3-hope-haven:
+  name: Hope Haven
   time:
-    Sunday: ["19:00"]
-    Wednesday: ["20:00"]
-  address: 304 N 10th, Beresford, SD, 57004
-  note: |
-      Behind Casey's
-      </br >Last Monday of the month is an Open Birthday Meeting
-  type: [EN, C, ST, D, X]
+    Tuesday: ["06:30", "07:00"]
+    Thursday: ["06:30", "07:00"]
+    Saturday: ["06:30", "07:00"]
+  place: Harmony House
+  address: 715 E 9th St, Redfield, SD, 57469
+  longitude: -98.50302766208877
+  latitude: 44.87484482561305
+  note: This is for demonstration.
+  type: [EN, C]
+  hidefrom: [json]
 
-brandon12x12:
-  name: Brandon 12x12
+d4-reflections-group:
+  name: Reflections Group
   time:
-    Monday: ["19:00"]
-    Wednesday: ["20:00"]
-    Thursday: ["20:00"]
-    Saturday: ["11:00"]
-  address: 209 E Elm St, Brandon, SD, 57005
-  phone: 605-582-3833
-  type: [EN, C, 12x12, ST, B, D]
+    Monday: ["19:00", "20:30"]
+    Wednesday: ["19:00", "20:30"]
+    Friday: ["19:00", "20:30"]
+  place: Tranquility Center
+  address: 26 1st Ave SW, Watertown, SD, 57201
+  longitude: -97.115542
+  latitude: 44.89933025
+  type: [EN, O, X]
+  note: This is for demonstration.
 
-blacksheep:
-  name: Black Sheep AA
+d4-serenity-seekers:
+  name: Serenity Seekers
   time:
-    Monday: ["20:00"]
-    Friday: ["20:00"]
-  place: Good Shepherd Episcopal Church
-  address: 2707 West 33rd Street, Sioux Falls, SD, 57105
-  note: Last Monday of the month is an Open Birthday Meeting
-  type: [EN, C, ST, B]
+    Tuesday: ["17:30", "18:30"]
+    Thursday: ["17:30", "18:30"]
+    Saturday: ["17:30", "18:30"]
+  place: Serene House
+  address: 110 4th St SE, Huron, SD, 57350
+  longitude: -98.21213283263546
+  latitude: 44.36196435606247
+  type: [EN, C, X]
+  note: This is for demonstration.
 
-chesteraa:
-  name: Chester AA
+d4-harmony-group:
+  name: Harmony Group
   time:
-    Friday: ["20:00"]
-  place: Community Center
-  address: 401 4th St, Chester, SD, 57016
-  note: First Friday of the month is an Open Birthday Meeting
-  type: [EN, C, B, X]
+    Monday: ["06:30", "08:00"]
+    Wednesday: ["06:30", "08:00"]
+    Friday: ["06:30", "08:00"]
+  place: Peaceful Place
+  address: 626 1st St SW, Huron, SD, 57350
+  longitude: -98.22441675961625
+  latitude: 44.36557904866339
+  type: [EN, O, X, TR]
+  note: This is for demonstration.
 
-madisonaa:
-  name: Madison AA
+d5-new-beginnings:
+  name: New Beginnings
   time:
-    Sunday: ["09:00", "19:30"]
-    Monday: ["20:00"]
-    Tuesday: ["20:00"]
-    Wednesday: ["17:30"]
-    Thursday: ["20:00"]
-    Saturday: ["10:00", "20:00"]
-  address: Hwy 34 and 453rd Ave, Madison, SD, 57042
-  note: |
-      South side of highway, near vet clinic; 1 mi west of town
-      <br \>Saturday meeting are Open
-  type: [EN, C, B, 12x12, D, X]
+    Tuesday: ["19:00", "20:30"]
+    Thursday: ["19:00", "20:30"]
+    Saturday: ["19:00", "20:30"]
+  place: Renewal Center
+  address: 4112 South West Avenue, Sioux Falls, SD, 57105
+  longitude: -96.745919
+  latitude: 43.50666681818182
+  type: [EN, C, X, BA]
+  note: This is for demonstration.
 
-madisonaagrace:
-  name: Madison AA
+d5-gratitude-gathering:
+  name: Gratitude Gathering
   time:
-    Sunday: ["17:30"]
-    Tuesday: ["12:00", "17:30"]
-    Wednesday: ["12:00", "17:30"]
-    Friday: ["12:00", "17:30"]
-    Thursday: ["12:00"]
-    Saturday: ["09:00"]
-  place: Grace Episcopal Church
-  address: 3rd Street Northwest, Madison, SD, 57042
-  note: Behind Casey's
-  type: [EN, C, B]
-
-westside:
-  name: Westside AA
-  time:
-    Sunday: ["08:00", "11:00", "19:30"]
-    Monday: ["10:00", "20:00"]
-    Tuesday: ["08:00", "10:00", "20:00"]
-    Wednesday: ["10:00", "18:30", "20:00"]
-    Thursday: ["08:00", "10:00", "17:00", "20:00"]
-    Friday: ["10:00", "20:00"]
-    Saturday: ["08:00", "10:00", "20:00"]
-  place: Westside Alano Club
+    Monday: ["17:30", "19:00"]
+    Wednesday: ["17:30", "19:00"]
+    Friday: ["17:30", "19:00"]
+  place: Thankful House
   address: 1509 West 1st Street, Sioux Falls, SD, 57104
-  phone: 605-332-9323
-  type: [EN, C, B, TR, X]
+  longitude: -96.74766244295301
+  latitude: 43.55737530201342
+  type: [EN, O, X]
+  note: This is for demonstration.
+
+d5-inner-peace:
+  name: Inner Peace
+  time:
+    Tuesday: ["06:30", "08:00"]
+    Thursday: ["06:30", "08:00"]
+    Saturday: ["06:30", "08:00"]
+  place: Serenity Sanctuary
+  address: 1509 West 1st Street, Sioux Falls, SD, 57104
+  longitude: -96.74766244295301
+  latitude: 43.55737530201342
+  type: [EN, C, X]
+  note: This is for demonstration.
+
+d5-courage-circle:
+  name: Courage Circle
+  time:
+    Monday: ["19:00", "20:30"]
+    Wednesday: ["19:00", "20:30"]
+    Friday: ["19:00", "20:30"]
+  place: Brave Hall
+  address: 2109 South 5th Avenue, Sioux Falls, SD, 57105
+  longitude: -96.72000166116356
+  latitude: 43.52648035
+  type: [EN, O, X, 12x12]
+  note: This is for demonstration.
+
+d5-serenity-steps:
+  name: Serenity Steps
+  time:
+    Tuesday: ["17:30", "18:30"]
+    Thursday: ["17:30", "18:30"]
+    Saturday: ["17:30", "18:30"]
+  place: Harmony Haven
+  address: 1300 South Sertoma Avenue, Sioux Falls, SD, 57106
+  longitude: -96.81569676904357
+  latitude: 43.53533809499511
+  type: [EN, C, X, TR]
+  note: This is for demonstration.
+
+d5-reflection-retreat:
+  name: Reflection Retreat
+  time:
+    Monday: ["06:30", "08:00"]
+    Wednesday: ["06:30", "08:00"]
+    Friday: ["06:30", "08:00"]
+  place: Tranquil Center
+  address: 811 South Gordon Drive, Sioux Falls, SD, 57110
+  longitude: -96.66646389969819
+  latitude: 43.540615798791436
+  type: [EN, O, X, BA]
+  note: This is for demonstration.
+
+d5-hopeful-hearts:
+  name: Hopeful Hearts
+  time:
+    Tuesday: ["19:00", "20:30"]
+    Thursday: ["19:00", "20:30"]
+    Saturday: ["19:00", "20:30"]
+  place: Serene Haven
+  address: Hwy 34 and 453rd Ave, Madison, SD, 57042
+  longitude: -97.149656
+  latitude: 44.007188
+  type: [EN, C, X, 12x12]
+  note: This is for demonstration.
+
+d5-peaceful-path:
+  name: Peaceful Path
+  time:
+    Monday: ["17:30", "19:00"]
+    Wednesday: ["17:30", "19:00"]
+    Friday: ["17:30", "19:00"]
+  place: Tranquil Retreat
+  address: 1912 West 13th Street, Sioux Falls, SD, 57104
+  longitude: -96.75148473469389
+  latitude: 43.542212346938776
+  type: [EN, O, X, SP]
+  note: This is for demonstration.
+
+d6-tranquility-tribe:
+  name: Tranquility Tribe
+  time:
+    Tuesday: ["06:30", "07:00"]
+    Thursday: ["06:30", "07:00"]
+    Saturday: ["06:30", "07:00"]
+  place: Harmony Oasis
+  address: 501 Essex St, Garretson, SD, 57030
+  longitude: -96.503996
+  latitude: 43.711821
+  type: [EN, C, B]
+  note: This is for demonstration.
+
+d6-joyful-journey:
+  name: Joyful Journey
+  time:
+    Monday: ["19:00", "20:30"]
+    Wednesday: ["19:00", "20:30"]
+    Friday: ["19:00", "20:30"]
+  place: Blissful Center
+  address: 2707 West 33rd Street, Sioux Falls, SD, 57105
+  longitude: -96.75909770526316
+  latitude: 43.522028905263156
+  type: [EN, O, X, SP]
+  note: This is for demonstration.
+
+d6-calm-waters:
+  name: Calm Waters
+  time:
+    Tuesday: ["17:30", "18:30"]
+    Thursday: ["17:30", "18:30"]
+    Saturday: ["17:30", "18:30"]
+  place: Serene Cove
+  address: 200 Main St, Kyle, SD, 57752
+  longitude: -102.181725
+  latitude: 43.423855
+  type: [EN, C, X, TR]
+  note: This is for demonstration.
+
+d7-grateful-gatherings:
+  name: Grateful Gatherings
+  time:
+    Monday: ["06:30", "08:00"]
+    Wednesday: ["06:30", "08:00"]
+    Friday: ["06:30", "08:00"]
+  place: Thankful House
+  address: 328 Deadwood Ave, Rapid City, SD, 57702
+  longitude: -103.26097605739707
+  latitude: 44.0880687835372
+  type: [EN, O, X, B]
+  note: This is for demonstration.
+
+d7-harmonious-hearts:
+  name: Harmonious Hearts
+  time:
+    Tuesday: ["19:00", "20:30"]
+    Thursday: ["19:00", "20:30"]
+    Saturday: ["19:00", "20:30"]
+  place: Serenity Sanctuary
+  address: 330 Deadwood Ave, Rapid City, SD, 57702
+  longitude: -103.26098701493966
+  latitude: 44.088083608447754
+  type: [EN, C, X, SP]
+  note: This is for demonstration.
+
+d7-serene-sessions:
+  name: Serene Sessions
+  time:
+    Monday: ["17:30", "19:00"]
+    Wednesday: ["17:30", "19:00"]
+    Friday: ["17:30", "19:00"]
+  place: Tranquility Hall
+  address: 325 Deadwood Ave, Rapid City, SD, 57702
+  longitude: -103.26095477809162
+  latitude: 44.08805131249051
+  type: [EN, O, X, D]
+  note: This is for demonstration.
+
+d7-hopeful-haven:
+  name: Hopeful Haven
+  time:
+    Tuesday: ["06:30", "07:00"]
+    Thursday: ["06:30", "07:00"]
+    Saturday: ["06:30", "07:00"]
+  place: Harmony House
+  address: 329 Deadwood Ave, Rapid City, SD, 57702
+  longitude: -103.26098153616836
+  latitude: 44.08807619599248
+  type: [EN, C, B]
+  note: This is for demonstration.
+
+d7-reflective-circle:
+  name: Reflective Circle
+  time:
+    Monday: ["19:00", "20:30"]
+    Wednesday: ["19:00", "20:30"]
+    Friday: ["19:00", "20:30"]
+  place: Tranquil Retreat
+  address: 325 Deadwood Ave, Rapid City, SD, 57702
+  longitude: -103.26095477809162
+  latitude: 44.08805131249051
+  type: [EN, O, X, SP]
+  note: This is for demonstration.
+
+d7-serene-souls:
+  name: Serene Souls
+  time:
+    Tuesday: ["17:30", "18:30"]
+    Thursday: ["17:30", "18:30"]
+    Saturday: ["17:30", "18:30"]
+  place: Serenity Sanctuary
+  address: 3500 Canyon Lake Dr, Rapid City, SD, 57702
+  longitude: -103.277727
+  latitude: 44.071634
+  type: [EN, C, X, TR]
+  note: This is for demonstration.
+
+d8-peaceful-presence:
+  name: Peaceful Presence
+  time:
+    Monday: ["06:30", "08:00"]
+    Wednesday: ["06:30", "08:00"]
+    Friday: ["06:30", "08:00"]
+  place: Tranquil Haven
+  address: 5112 Mc-2 Rd, Black Hawk, SD, 57718
+  longitude: -103.305080
+  latitude: 44.153501
+  type: [EN, O, X, B]
+  note: This is for demonstration.
+
+d5-harmony-harbor:
+  name: Harmony Harbor
+  time:
+    Tuesday: ["19:00", "20:30"]
+    Thursday: ["19:00", "20:30"]
+    Saturday: ["19:00", "20:30"]
+  place: Serenity Cove
+  address: 2425 S Western Ave, Sioux Falls, SD, 57105
+  longitude: -96.75128327272728
+  latitude: 43.52368772727273
+  type: [EN, C, X, SP]
+  note: This is for demonstration.
+
+d7-gratitude-gateway:
+  name: Gratitude Gateway
+  time:
+    Monday: ["17:30", "19:00"]
+    Wednesday: ["17:30", "19:00"]
+    Friday: ["17:30", "19:00"]
+  place: Thankful Hall
+  address: 325 Deadwood Ave, Rapid City, SD, 57702
+  longitude: -103.26095477809162
+  latitude: 44.08805131249051
+  type: [EN, O, X, D]
+  note: This is for demonstration.
+
+d8-hope-harmony:
+  name: Hope Harmony
+  time:
+    Tuesday: ["06:30", "07:00"]
+    Thursday: ["06:30", "07:00"]
+    Saturday: ["06:30", "07:00"]
+  place: Harmony Haven
+  address: 950 Main St, Sturgis, SD, 57785
+  longitude: -103.50778101450884
+  latitude: 44.4142957316115
+  type: [EN, C, B]
+  note: This is for demonstration.
+
+d8-serene-circle:
+  name: Serene Circle
+  time:
+    Monday: ["19:00", "20:30"]
+    Wednesday: ["19:00", "20:30"]
+    Friday: ["19:00", "20:30"]
+  place: Tranquility Retreat
+  address: 806 6th Ave, Belle Fourche, SD, 57717
+  longitude: -103.85225119871994
+  latitude: 44.66946124703351
+  type: [EN, O, X, SP]
+  note: This is for demonstration.
+
+d8-tranquil-tribe:
+  name: Tranquil Tribe
+  time:
+    Tuesday: ["17:30", "18:30"]
+    Thursday: ["17:30", "18:30"]
+    Saturday: ["17:30", "18:30"]
+  place: Serene Oasis
+  address: 135 1st Ave S, Brookings, SD, 57006
+  longitude: -96.80285
+  latitude: 44.30566
+  type: [EN, C, X, TR]
+  note: This is for demonstration.
+
+d8-blissful-gathering:
+  name: Blissful Gathering
+  time:
+    Monday: ["06:30", "08:00"]
+    Wednesday: ["06:30", "08:00"]
+    Friday: ["06:30", "08:00"]
+  place: Thankful Retreat
+  address: 1104 22nd Ave S, Brookings, SD, 57006
+  longitude: -96.7684493489227
+  latitude: 44.293299124023726
+  type: [EN, O, X, B]
+  note: This is for demonstration.
+
+d12-harmonious-hope:
+  name: Harmonious Hope
+  time:
+    Tuesday: ["19:00", "20:30"]
+    Thursday: ["19:00", "20:30"]
+    Saturday: ["19:00", "20:30"]
+  place: Serenity Cove
+  address: Main Ave N, Lake Preston, SD, 57249
+  longitude: -97.377286
+  latitude: 44.364967
+  type: [EN, C, X, SP]
+  note: This is for demonstration.
