@@ -1,16 +1,36 @@
 /**
+ * Page
+ **/
+
+body {
+	background-color: #f5f5f5;
+	/* background: url("/img/background.avif") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; */
+}
+
+/**
  * Banner
  **/
 
 .header__container {
-	background-image: url("/img/clouds.png");
-	background-size: 24em;
-	background-repeat: repeat;
-	background-position: bottom;
+	/* background-color: #f5f5f5; */
+	background: url("/img/banner.webp");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.logo__tagline {
+	color: #000000;
+	font-size: 1.0rem;
 }
 
 .logo__text {
-	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	text-shadow: #e5e5e5 -1px 0px, #e5e5e5 0px 1px, #e5e5e5 1px 0px, #e5e5e5 0px -1px;
 }
 
 /**
@@ -18,11 +38,11 @@
  **/
 
 .btn {
-	background: #00378c;
+	background: #0060ae;
 }
 
 .btn:hover {
-	background: #aa1517;
+	background: #ab6516;
 }
 
 /**
@@ -30,7 +50,7 @@
  **/
 
 .widget__title {
-	border-color: #aa1517;
+	border-color: #ab6516;
 }
 
 .widget__item {
@@ -43,12 +63,12 @@
 }
 
 .widget-sidemenu a {
-	color: #004ec8;
+	color: #0060ae;
 	font-weight: 700;
 }
 
 .widget-sidemenu a:hover {
-	color: #e22d30;
+	color: #ab6516;
 }
 
 /**
@@ -63,7 +83,7 @@
 }
 
 .maplink {
-	color: #aa1517;
+	color: #ab6516;
 	font-weight: 700;
 }
 
@@ -77,14 +97,14 @@
 }
 
 .toc__menu li a {
-	background: #00378c;
-	color: #fff;
+	background: #0060ae;
+	color: #ffffff;
 	transition: background-color .25s ease-out;
 	padding-left: 10px !important;
 }
 
 .toc__menu li a:hover {
-	background: #aa1517;
+	background: #f5f5f5;
 	text-decoration: none;
 }
 
@@ -93,19 +113,23 @@
  **/
 
 .menu {
-	border-color: #aa1517;
+	border-bottom: 3px solid #ab6516;
+}
+
+.menu__list {
+	background: #0060ae;
+}
+
+.menu__item:hover {
+	background: #ab6516;
 }
 
 .menu__item--active {
-	background: #aa1517;
-}
-
-.menu__item:hover{
-	background: #aa1517;
+	background: #ab6516;
 }
 
 .menu__link:hover {
-	background: #aa1517;
+	background: #ab6516;
 }
 
 /**
@@ -125,11 +149,11 @@
  **/
 
 .content a {
-	color: #004ec8;
+	color: #0060ae;
 }
 
 .content a:hover {
-	color: #e22d30;
+	color: #ab6516;
 	text-decoration: none;
 }
 
@@ -137,8 +161,20 @@
  * Footer
  **/
 
+.footer {
+	color: #000000;
+	font-weight: bold;
+	background: #f5f5f5;
+	border-top: 3px solid #ab6516;
+}
+
 .footer a {
-	color: #93cddd;
+	color: #0060ae;
+	font-weight: normal;
+}
+
+.footer a:hover {
+	color: #ab6516;
 }
 
 /**

@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Statestown AA (Demo Site)</title><link>https://template-demo.recoverysource.io/</link><description>Recent content in Home on Statestown AA (Demo Site)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://template-demo.recoverysource.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://template-demo.recoverysource.io/meeting-guide.json</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://template-demo.recoverysource.io/meeting-guide.json</guid><description>[]</description></item><item><title>Blissful Gathering</title><link>https://template-demo.recoverysource.io/meetings/d8-blissful-gathering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://template-demo.recoverysource.io/meetings/d8-blissful-gathering/</guid><description>Building: Thankful Retreat
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Statestown AA (Demo Site)</title><link>https://template-demo.recoverysource.io/</link><description>Recent content in Home on Statestown AA (Demo Site)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://template-demo.recoverysource.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://template-demo.recoverysource.io/meeting-guide.json</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://template-demo.recoverysource.io/meeting-guide.json</guid><description>[
+ {
+ "address": "Main Ave N",
+ "approximate": false,
+ "city": "Lake Preston",
+ "country": "US",
+ "day": 6,
+ "location": "Serenity Cove",
+ "name": "Harmonious Hope",
+ "notes": "This is for demonstration.",
+ "postal_code": "57249",
+ "</description></item><item><title>Blissful Gathering</title><link>https://template-demo.recoverysource.io/meetings/d8-blissful-gathering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://template-demo.recoverysource.io/meetings/d8-blissful-gathering/</guid><description>Building: Thankful Retreat
 Address: 1104 22nd Ave S, Brookings, SD, 57006
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Friday: 6:30 AM , 8:00 AM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Monday: 6:30 AM , 8:00 AM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wednesday: 6:30 AM , 8:00 AM Meeting Type: English Open Wheelchair Access Big Book This is for demonstration.</description></item><item><title>Calm Waters</title><link>https://template-demo.recoverysource.io/meetings/d6-calm-waters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://template-demo.recoverysource.io/meetings/d6-calm-waters/</guid><description>Building: Serene Cove
 Address: 200 Main St, Kyle, SD, 57752
