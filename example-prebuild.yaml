@@ -24,6 +24,11 @@ meeting-data: data/example-meetings.yaml
   # Columns used on the front (quarter sheet)
   #anonlist: 2
 
+# Hide day-of-week header if there are no meetings within
+#hide-empty:
+  #aalist: false
+  #anonlist: false
+
 # Content that is dropped into the generated .tex file
 pdf-blurbs:
   # Image displayed in folded booklet
