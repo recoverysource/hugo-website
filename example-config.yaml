@@ -15,7 +15,7 @@ Params:
   copyright: Statestown Demonstration
   phone: 123-456-7890
   logo:
-    image: img/AAlogo.png
+    image: img/AAlogo.webp
     title: Statestown Demonstration
   toc: true
   mainSections: [home, meetings, about, events]
