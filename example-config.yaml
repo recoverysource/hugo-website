@@ -10,8 +10,8 @@ buildFuture: true
 Params:
   description: Statestown Demonstration
   source: https://github.com/YOUR-PROJECT/YOUR-REPO/tree/master
-  #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
-  mapapikey: "AIzaSyA0zujVEN5nzVoZDI7G-Lo3GTwoLBckZGw"
+  #mapapikey: Please visit https://developers.google.com/maps/documentation/embed/get-api-key
+  #mapapikey: "YOUR-KEY"
   copyright: Statestown Demonstration
   phone: 123-456-7890
   logo:
