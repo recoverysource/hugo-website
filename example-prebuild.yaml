@@ -1,8 +1,8 @@
 ##
-# Sample configuration used for exampleSite (aamod-demo.recoverysource.io)
-# Documentation: https://recoverysource.io/aamod/prebuild.html
+# Sample configuration used for exampleSite (aamod-demo.recoverysource.net)
+# Documentation: https://recoverysource.net/aamod/prebuild.html
 ##
-baseURL: https://template-demo.recoverysource.io/
+baseURL: https://template-demo.recoverysource.net/
 
 # List of content to build
 #builders: [stubs, pdf]
@@ -48,7 +48,7 @@ pdf-blurbs:
     {\7pt\textbf{Al-Anon Information:} al-anon.org}
   # Links to additional resources on back of folded booklet
   resources: |
-    {\7pt\textbf{Statestown Area:} template-demo.recoverysource.io/meeting-times}\\
+    {\7pt\textbf{Statestown Area:} template-demo.recoverysource.net/meeting-times}\\
     {\7pt\textbf{South Dakota State:} www.area63.org}
   # Informational box on bottom-right of back (second) page
   details: |
