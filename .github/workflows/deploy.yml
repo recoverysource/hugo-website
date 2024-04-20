@@ -35,7 +35,7 @@ jobs:
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: latest
+          hugo-version: '0.122.0'
 
       - name: Build Site
         run: make
