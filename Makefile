@@ -20,7 +20,7 @@ prebuild:
 demotweaks:
 	sed 's/draft: true/draft: false/' content/example-contact.md >content/contact.md
 	sed -e 's|^.*YOUR-KEY.*$$|  mapapikey: "AIzaSyA0zujVEN5nzVoZDI7G-Lo3GTwoLBckZGw"|' \
-		-e 's|^.*YOUR-PROJECT/YOUR-REPO.*$$|  source: https://github.com/recoverysource/hugo-theme/tree/master|' \
+		-e 's|^.*YOUR-PROJECT/YOUR-REPO.*$$|  source: https://github.com/recoverysource/hugo-website/tree/master|' \
 		example-config.yaml >config.yaml
 	cp data/example-meetings.yaml data/meetings.yaml
 	cp example-prebuild.yaml prebuild.yaml
